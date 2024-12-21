@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  aws-without-mfa:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: aws-without-mfa
+    environment:
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
+      AWS_DEFAULT_REGION: ${AWS_DEFAULT_REGION}
+      REDSHIFT_HOST: ${REDSHIFT_HOST}
+      REDSHIFT_DBNAME: ${REDSHIFT_DBNAME}
+      REDSHIFT_USER: ${REDSHIFT_USER}
+      REDSHIFT_PASSWORD: ${REDSHIFT_PASSWORD}
+    volumes:
+      - .:/app
+    working_dir: /app
+    stdin_open: true
+    tty: true
