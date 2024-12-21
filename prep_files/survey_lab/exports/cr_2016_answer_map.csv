@@ -1,0 +1,42 @@
+﻿Question|Value|Text|Label
+qCurrency|EUR|Euro (EUR)|
+qCurrency|GBP|Pound Sterling (GBP)|
+qCurrency|USD|US Dollar (USD)|
+qCurrency|AUD|Australian Dollar (AUD)|
+qCurrency|CHF|Swiss Francs (CHF)|
+qCurrency|CNY|Chinese Yuan (CNY)|
+qCurrency|DKK|Danish Krona (DKK)|
+qCurrency|HKD|Hong Kong Dollar (HKD)|
+qCurrency|IDR|Indonesian Rupiah (IDR)|
+qCurrency|INR|Indian Rupee (INR)|
+qCurrency|JPY|Japanese Yen (JPY)|
+qCurrency|KRW|South Korean Won (KRW)|
+qCurrency|LKR|Sri Lankan Rupee (LKR)|
+qCurrency|MYR|Malaysian Ringgit (MYR)|
+qCurrency|NOK|Norwegian Krone (NOK)|
+qCurrency|NZD|New Zealand Dollar (NZD)|
+qCurrency|PHP|Philippine Peso (PHP)|
+qCurrency|PKR|Pakistani Rupee (PKR)|
+qCurrency|SEK|Swedish Krona (SEK)|
+qCurrency|SGD|Singapore Dollar (SGD)|
+qCurrency|THB|Thai Baht (THB)|
+qCurrency|TWD|New Taiwan Dollar (TWD)|
+qCurrency|VND|Vietnamese Dong (VND)|
+qCurrency|CAD|Canadian Dollar (CAD)|
+qCurrency|OTHER|Other|
+q1|1|Yes|CapitalRaisingActivity_NonListedRealEstateVehicles
+q1|2|No|CapitalRaisingActivity_NonListedRealEstateVehicles
+q2|1|Track record|NoCapitalRaisingActivity_Reason
+q2|2|Alignment of interest|NoCapitalRaisingActivity_Reason
+q2|3|Fund manager reputation|NoCapitalRaisingActivity_Reason
+q2|4|Associated costs|NoCapitalRaisingActivity_Reason
+q2|5|Corporate governance framework|NoCapitalRaisingActivity_Reason
+q2|6|Other|NoCapitalRaisingActivity_Reason
+q14|1|Increase|CapitalRaisingActivity_Development
+q14|2|Decrease|CapitalRaisingActivity_Development
+q14|3|No change|CapitalRaisingActivity_Development
+q15|1|Positive impact|CapitalRaisingActivity_Impactregulation
+q15|2|Negative impact|CapitalRaisingActivity_Impactregulation
+q15|3|No impact|CapitalRaisingActivity_Impactregulation
+q16|1|Yes|Companynameincluded
+q16|2|No|Companynameincluded

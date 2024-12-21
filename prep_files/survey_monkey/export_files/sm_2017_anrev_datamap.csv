@@ -1,0 +1,53 @@
+﻿question|question_code|answer|answer_code|format|answer_Label|answer_label_condensed|section|Topic|sub_topic|Question|qn_breakdown_label
+keep|||keep|SINGLE|||||||
+RespondentID|||respondentId|TEXT|||||||
+CollectorID|||collectorId|TEXT|||||||
+StartDate|||dateStarted|TEXT|||||||
+EndDate|||dateEnded|TEXT|||||||
+IP Address|||ipAddress|TEXT|||||||
+Email Address|||email|TEXT|||||||
+FirstName|||firstname|TEXT|||||||
+LastName|||lastname|TEXT|||||||
+Custom Data|||customData1|TEXT|||||||
+Name|||qname|TEXT|||||||
+Company|||qcompany|TEXT|||||||
+Email|||qemail|TEXT|||||||
+Vehicle Name|||qfundname|TEXT|||||||
+Did your company raise capital for this vehicle in 2016?|q1||q1|TEXT|||||||
+Style|||qstyle|TEXT|||||||
+Structure|||qfundstructure|TEXT|||||||
+Target Regional Strategy|||qtarget_regional_strategy|TEXT|||||||
+Target Sector Strategy|||qtarget_sector_strategy|TEXT|||||||
+Total capital raised throughout 2016 (USD)|q2||q2|currency|||||||
+Currency|||qcurrency|TEXT|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type?|q3|"
+Pension funds"|q3_1|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type?|q3|"
+Insurance companies"|q3_2|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type?|q3| Sovereign wealth funds|q3_3|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type?|q3|" 
+Government institutions"|q3_4|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type?|q3|" 
+Charities, foundations, non-profit organisations"|q3_5|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type?|q3|"
+ Fund of funds"|q3_6|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type?|q3| High net worth individuals / Family offices|q3_7|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type?|q3|"
+Other (please specify investor type and amount of capital raised):"|q3_8|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile?|q4|"
+Europe"|q4_1|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile?|q4|" 
+Asia Pacific"|q4_2|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile?|q4|" 
+North America"|q4_3|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile?|q4|" 
+South America"|q4_4|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile?|q4|" 
+Africa"|q4_5|currency|||||||
+Did your company have any secondary trading for this vehicle in 2016?|q8|Response|q5|TEXT|||||||
+If yes what was the total amount of secondary trading for this vehicle in 2016?|q8|amount (millions)|q6|currency|||||||
+What was the number of trades for this fund during 2016?|q9|Response|q7|TEXT|||||||
+What are the proportion of trades with premium/discount to NAV?||Premium for …% of the trades|q8_1|%|||||||
+||Discount for …% of the trades|q8_2|%|||||||
+||At par for …% of the trades|q8_3|%|||||||
+How secondary trading was achieved?||Response|q9|TEXT|||||||

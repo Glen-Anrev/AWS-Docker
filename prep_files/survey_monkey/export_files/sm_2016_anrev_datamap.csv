@@ -1,0 +1,51 @@
+﻿question|question_code|answer|answer_code|format|answer_Label|answer_label_condensed|section|Topic|sub_topic|Question|qn_breakdown_label
+Keep|||keep|SINGLE|||||||
+RespondentID|||respondentId|TEXT|||||||
+CollectorID|||collectorId|TEXT|||||||
+StartDate|||dateStarted|TEXT|||||||
+EndDate|||dateEnded|TEXT|||||||
+IP Address|||ipAddress|TEXT|||||||
+Email Address|||email|TEXT|||||||
+First Name|||firstname|TEXT|||||||
+LastName|||lastname|TEXT|||||||
+Custom Data|||customData1|TEXT|||||||
+Name|||qname|TEXT|||||||
+Company|||qcompany|TEXT|||||||
+Country of Origin Global Head Office|||qcountry|TEXT|||||||
+Position/Job title|||qjobtitle|TEXT|||||||
+Telephone number (direct)|||qtelephone|TEXT|||||||
+Email|||qemail|TEXT|||||||
+"Vehicle reporting currency: 
+(All figures should be filled in as of 31 December 2015.)"|||qcurrency|TEXT|||||||
+Vehicle name||Open-Ended Response|qfundname|TEXT|||||||
+Did your company raise capital for this vehicle in 2015?|q1||q1|TEXT|||||||
+If no, please state why?|q2|Response|q2|TEXT|||||||
+|q2|Other (please specify)|q2other|TEXT|||||||
+Fund structure:|||qfundstructure|TEXT|||||||
+Fund style:|||qstyle|TEXT|||||||
+Year of first closing (vintage year):|||first_closing_year|TEXT|||||||
+Target regional strategy:|||qtarget_regional_strategy|TEXT|||||||
+Other (please specify)|||qtarget_regional_strategy_other|TEXT|||||||
+Target sector strategy:|||qtarget_sector_strategy|TEXT|||||||
+Other (please specify)|||qtarget_sector_strategy_other|TEXT|||||||
+What was the total amount of capital raised for this vehicle in 2015? (millions)|q3||q3|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|Pension funds|q4_1|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|Insurance companies|q4_2|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|Sovereign wealth funds|q4_3|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|Government institutions|q4_4|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|Charities, foundations, non-profit organisations|q4_5|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|Fund of funds|q4_6|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|High net worth individuals / Family offices|q4_7|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|Others (amount raised)|q4_8|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor type? (millions)|q4|Other (please specify investor type):|q4_8other|TEXT|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor domicile? (millions)|q5|Europe|q5_1|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor domicile? (millions)|q5|Asia Pacific|q5_2|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor domicile? (millions)|q5|North America|q5_3|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor domicile? (millions)|q5|South America|q5_4|currency|||||||
+How much capital was raised for this vehicle in 2015 from Institutional Investors by investor domicile? (millions)|q5|Africa|q5_5|currency|||||||
+What percentage of the total capital was raised via...?|q6|Placement agent|q6_1|%|||||||
+What percentage of the total capital was raised via...?|q6|Investors contacting you directly|q6_2|%|||||||
+What percentage of the total capital was raised via...?|q6|Your own direct relationship with investors|q6_3|%|||||||
+What percentage of the total capital was raised via...?|q6|Other (please specify):|q6_4|%|||||||
+How do you expect capital raising activities to develop for non-listed real estate funds over the next two years?|q7||q7|TEXT|||||||
+Would you like the name of your company to be included in the list of participants?|q8||q8|TEXT|||||||

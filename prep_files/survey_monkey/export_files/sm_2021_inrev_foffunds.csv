@@ -1,0 +1,15 @@
+﻿keep|respondentId|collectorId|dateStarted|dateEnded|ipAddress|email|firstname|lastname|customData1|qcompany|qfundname|universeFundID|qcurrency|qstyle|qfundstructure|first_closing_year|q1|q2|q2other|q3|q4_1|q4_2|q4_3|q4_4|q4_5|q4_6|q4_7|q4_8|q5_1|q5_2|q5_3|q5_4|q5_5|q6_1|q6_2|q6_3|q6_4|q7|q8
+yes|12442521524|396432108|2021-02-25 17:41:57|2021-02-25 17:49:45|213.127.79.181|||||CBRE Global Investors|Global Alpha|17454|USD|Core|Open end|2010|Yes|||410|377|23||||||10|214|25|57|||||100||Increase|Yes
+yes|12430584227|396432108|2021-02-22 10:54:52|2021-02-22 10:57:42|213.127.78.109|||||UBS Asset Management|US Global Real Estate Funds Selection LP|108365|EUR|Core|Closed end|2020|Yes|||112|||||||112||||112|||||100||Increase|Yes
+yes|12430565314|396432108|2021-02-22 10:44:54|2021-02-22 10:53:23|213.127.78.109|||||UBS Asset Management|UBS AST 3 Global Real Estate (ex CH)|17443|CHF|Core|Open end|2011|Yes|||184|184||||||||184|||||||100||Increase|Yes
+yes|12430447731|396432108|2021-02-22 09:41:14|2021-02-22 09:51:45|34.99.220.188|||||Helaba Invest|HI-Immobilien-Multi Manager-Fonds IV|114441|EUR|Core|Closed end|2020|Yes|||225|71|25|||2|||127|225|||||||100||No change|Yes
+yes|12430404159|396432108|2021-02-22 09:18:50|2021-02-22 09:22:54|62.45.12.106|||||UBS Asset Management|UBS (Lux) Real Estate Funds Selection - Global|17439|EUR|Core|Open end|2008|Yes|||857|241|116||7|41|32|263|158|465|297|63|28|4|||100||Increase|Yes
+yes|12430396008|396432108|2021-02-22 08:59:05|2021-02-22 09:16:41|62.45.12.106|||||UBS|UBS (UK) Real Estate Funds Selection - Global ex Canada LP|17456|CAD|Core|Open end|2011|Yes|||147|147||||||||||147|||||100||Increase|Yes
+no|12430362065|396432108|2021-02-22 08:51:56|2021-02-22 08:57:10|62.45.12.106|||||UBS Asset Management|REFIS|#N/A|#N/A|#N/A|#N/A|#N/A|Yes|||86||||||||86||86||||||100||Increase|Yes
+yes|12425174742|396432108|2021-02-19 21:03:27|2021-02-19 21:07:26|92.11.151.220|||||LaSalle|LaSalle Global Navigator Fund|10000001|GBP|Core|Open end|2020|Yes|||320|295|||||||25|295||25|||||100||Increase|Yes
+yes|12424163694|396432108|2021-02-19 15:54:49|2021-02-19 16:01:34|212.25.22.162|||||Swiss Finance & Property|SFP AST Global Core Property|19261|CHF|Core|Open end|2017|Yes|||20|20||||||||20|||||||100||Increase|Yes
+yes|12358461622|396432108|2021-01-27 11:21:30|2021-01-27 11:29:45|147.161.165.98|||||PATRIZIA Global Partners|PMM Global V|65040|EUR|Opportunity|Closed end|2019|Yes|||10|||||10||||10||||||100|||Increase|Yes
+yes|12351696423|396432108|2021-01-25 13:07:32|2021-01-25 13:09:30|45.158.3.20|||||Altan Capital|Altan IV|105127|EUR|Opportunity|Closed end|2018|No|Other (please specify)|Fund already raised and in investment period|||||||||||||||||||Decrease|Yes
+no|12351684281|396432108|2021-01-25 13:02:03|2021-01-25 13:03:12|45.158.3.20|||||Altamar Capital Partners|Altan IV|105127|EUR|Opportunity|Closed end|2018|Yes||||||||||||||||||||||
+yes|12351414425|396432108|2021-01-25 10:44:59|2021-01-25 10:52:22|192.166.106.125|||||Deka Immobilien Investment GmbH|Deka-Immobilien StrategieInstitutionell|17629|EUR|Core|Open end|2012|Yes|||188||||||||188|188||||||100|||No change|No
+|||||||||||||||||||||||||||||||||||||||

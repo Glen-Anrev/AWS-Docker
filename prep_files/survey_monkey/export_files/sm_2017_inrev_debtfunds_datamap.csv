@@ -1,0 +1,49 @@
+﻿question|question_code|answer|answer_code|format|answer_Label|answer_label_condensed|section|Topic|sub_topic|Question|qn_breakdown_label
+keep?|||keep|TEXT|||||||
+RespondentID|||respondentId|TEXT|||||||
+CollectorID|||collectorId|TEXT|||||||
+StartDate|||dateStarted|TEXT|||||||
+EndDate|||dateEnded|TEXT|||||||
+IP Address|||ipAddress|TEXT|||||||
+Email Address|||email|TEXT|||||||
+First Name|||firstname|TEXT|||||||
+LastName|||lastname|TEXT|||||||
+Custom Data|||customData1|TEXT|||||||
+Respondent details||Name|qname|TEXT|||||||
+Respondent details||Company|qcompany|TEXT|||||||
+Respondent details||Country of Origin Global Head Office|qcountry|TEXT|||||||
+Respondent details||Position/Job title|qjobtitle|TEXT|||||||
+Respondent details||Telephone number (direct)|qtelephone|TEXT|||||||
+Respondent details||Email|qemail|TEXT|||||||
+Vehicle reporting currency: (all figures should be filled in as of 31 December 2016)||Response|qcurrency|TEXT|||||||
+Vehicle reporting currency: (all figures should be filled in as of 31 December 2016)||Other (please specify)|qcrrencyother|TEXT|||||||
+"Vehicle Name<br><br><span style=""font-size: 10pt;"">This question relates to non-listed / commingled real estate funds / private REITS.</span><br><span style=""font-size: 10pt;"">""Fund"" is structure where at least three investors’ capital is pooled together "||Open-Ended Response|qfundname|TEXT|||||||
+Did your company raise capital for this vehicle in 2016?|q1|Response|q1|TEXT|||||||
+If no, please state why?|q2|Response|q2|TEXT|||||||
+If no, please state why?||Other (please specify)|q2other|TEXT|||||||
+Target loan strategy||Response|loan_strategy|TEXT|||||||
+Target regional strategy||Response|qtarget_regional_strategy|TEXT|||||||
+Target regional strategy||Single country (please specify)|qtarget_country|TEXT|||||||
+Target European country strategy||Response|qtarget_european_strategy|TEXT|||||||
+Target European country strategy||Single Country (please specify)|qtarget_european_country|TEXT|||||||
+Year of first closing (vintage year)||Response|first_closing_year|TEXT|||||||
+What was the total amount of capital raised for this vehicle in 2016? (millions)|q3|Open-Ended Response|q3|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type? (millions)<br /><em><br />Please ensure that the total values provided match the values you entered in Q10</em>|q4|Pension funds|q4_1|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type? (millions)<br /><em><br />Please ensure that the total values provided match the values you entered in Q10</em>|q4|Insurance companies|q4_2|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type? (millions)<br /><em><br />Please ensure that the total values provided match the values you entered in Q10</em>|q4|Sovereign wealth fund|q4_3|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type? (millions)<br /><em><br />Please ensure that the total values provided match the values you entered in Q10</em>|q4|Government institutions|q4_4|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type? (millions)<br /><em><br />Please ensure that the total values provided match the values you entered in Q10</em>|q4|Charities, foundations, non-profit organisations|q4_5|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type? (millions)<br /><em><br />Please ensure that the total values provided match the values you entered in Q10</em>|q4|Fund of funds|q4_6|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type? (millions)<br /><em><br />Please ensure that the total values provided match the values you entered in Q10</em>|q4|High net worth individulas / Family offices|q4_7|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor type? (millions)<br /><em><br />Please ensure that the total values provided match the values you entered in Q10</em>|q4|Other (please specify)|q4_8|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile? (millions)<br /><br /><em>Please ensure that the total values provided match the values you entered in Q10</em>|q5|Europe|q5_1|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile? (millions)<br /><br /><em>Please ensure that the total values provided match the values you entered in Q10</em>|q5|Asia Pacific|q5_2|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile? (millions)<br /><br /><em>Please ensure that the total values provided match the values you entered in Q10</em>|q5|North America|q5_3|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile? (millions)<br /><br /><em>Please ensure that the total values provided match the values you entered in Q10</em>|q5|South America|q5_4|currency|||||||
+How much capital was raised for this vehicle in 2016 from Institutional Investors by investor domicile? (millions)<br /><br /><em>Please ensure that the total values provided match the values you entered in Q10</em>|q5|Africa|q5_5|currency|||||||
+What percentage of the total capital was raised via...?<br><br><em>Total figure should sum up to 100%</em>|q6|Placement agent (%)|q6_1|%|||||||
+What percentage of the total capital was raised via...?<br><br><em>Total figure should sum up to 100%</em>|q6|Investors contacting you directly (%)|q6_2|%|||||||
+What percentage of the total capital was raised via...?<br><br><em>Total figure should sum up to 100%</em>|q6|Your own direct relationship with investors (%)|q6_3|%|||||||
+What percentage of the total capital was raised via...?<br><br><em>Total figure should sum up to 100%</em>|q6|Other (%)|q6_4|%|||||||
+How do you expect capital raising activities to develop for non-listed real estate funds over the next two years?|q7|Response|q7|TEXT|||||||
+Would you like the name of your company to be included in the list of participants?|q8|Response|q8|TEXT|||||||

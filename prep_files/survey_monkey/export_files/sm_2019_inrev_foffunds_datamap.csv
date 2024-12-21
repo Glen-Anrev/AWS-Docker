@@ -1,0 +1,40 @@
+﻿question|question_code|answer|answer_code|format|answer_Label|answer_label_condensed|section|Topic|sub_topic|Question|qn_breakdown_label
+keep|||keep|TEXT|||||||
+Respondent ID|||respondentId|TEXT|||||||
+Collector ID|||collectorId|TEXT|||||||
+Start Date|||dateStarted|TEXT|||||||
+End Date|||dateEnded|TEXT|||||||
+IP Address|||ipAddress|TEXT|||||||
+Email Address|||email|TEXT|||||||
+First Name|||firstname|TEXT|||||||
+Last Name|||lastname|TEXT|||||||
+Custom Data 1|||customData1|TEXT|||||||
+Vehicle ID / Name|||qfundname|TEXT|||||||
+Vehicle ID|||universeFundID|TEXT|||||||
+Currency|||qcurrency|TEXT|||||||
+Style|||qstyle|TEXT|||||||
+Vehicle Structure|||qfundstructure|TEXT|||||||
+Vintage|||first_closing_year|TEXT|||||||
+Did your company raise capital for this vehicle in 2018?|q1|Response|q1|TEXT|||||||
+Please state the reason why?|q2|Response|q2|TEXT|||||||
+Please state the reason why?||Other (please specify)|q2other|TEXT|||||||
+What was the total amount of capital raised for this vehicle in 2018? (millions)|q3|Open-Ended Response|q3|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor type? (millions)Please ensure that the total values provided match the values you entered in Q3|q4|Pension funds|q4_1|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor type? (millions)Please ensure that the total values provided match the values you entered in Q3|q4|Insurance companies|q4_2|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor type? (millions)Please ensure that the total values provided match the values you entered in Q3|q4|Sovereign wealth funds|q4_3|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor type? (millions)Please ensure that the total values provided match the values you entered in Q3|q4|Government institutions|q4_4|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor type? (millions)Please ensure that the total values provided match the values you entered in Q3|q4|Charities, foundations, non-profit organisations|q4_5|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor type? (millions)Please ensure that the total values provided match the values you entered in Q3|q4|Fund of funds|q4_6|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor type? (millions)Please ensure that the total values provided match the values you entered in Q3|q4|High net worth individuals / Family offices|q4_7|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor type? (millions)Please ensure that the total values provided match the values you entered in Q3|q4|Other|q4_8|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor domicile? (millions)Please ensure that the total values provided match the values you entered in Q3|q5|Europe|q5_1|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor domicile? (millions)Please ensure that the total values provided match the values you entered in Q3|q5|Asia Pacific|q5_2|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor domicile? (millions)Please ensure that the total values provided match the values you entered in Q3|q5|North America|q5_3|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor domicile? (millions)Please ensure that the total values provided match the values you entered in Q3|q5|South America|q5_4|currency|||||||
+How much capital was raised for this vehicle in 2018 from Institutional Investors by investor domicile? (millions)Please ensure that the total values provided match the values you entered in Q3|q5|Africa|q5_5|currency|||||||
+What percentage of the total capital was raised via...?Total figure should sum up to 100%|q6|Placement agent (%)|q6_1|%|||||||
+What percentage of the total capital was raised via...?Total figure should sum up to 100%|q6|Investors contacting you directly (%)|q6_2|%|||||||
+What percentage of the total capital was raised via...?Total figure should sum up to 100%|q6|Your own direct relationship with investors (%)|q6_3|%|||||||
+What percentage of the total capital was raised via...?Total figure should sum up to 100%|q6|Other (%)|q6_4|%|||||||
+How do you expect capital raising activities to develop for non-listed real estate funds over the next two years?|q7|Response|q7|TEXT|||||||
+Would you like the name of your company to be included in the list of participants?|q8|Response|q8|TEXT|||||||

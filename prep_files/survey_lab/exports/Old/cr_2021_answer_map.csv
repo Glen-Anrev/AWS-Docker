@@ -1,0 +1,46 @@
+﻿Question|Value|Text
+qCurrency|EUR|Euro (EUR)
+qCurrency|GBP|Pound Sterling (GBP)
+qCurrency|USD|US Dollar (USD)
+qCurrency|AUD|Australian Dollar (AUD)
+qCurrency|CHF|Swiss Francs (CHF)
+qCurrency|CNY|Chinese Yuan (CNY)
+qCurrency|DKK|Danish Krona (DKK)
+qCurrency|HKD|Hong Kong Dollar (HKD)
+qCurrency|IDR|Indonesian Rupiah (IDR)
+qCurrency|INR|Indian Rupee (INR)
+qCurrency|JPY|Japanese Yen (JPY)
+qCurrency|KRW|South Korean Won (KRW)
+qCurrency|LKR|Sri Lankan Rupee (LKR)
+qCurrency|MYR|Malaysian Ringgit (MYR)
+qCurrency|NOK|Norwegian Krone (NOK)
+qCurrency|NZD|New Zealand Dollar (NZD)
+qCurrency|PHP|Philippine Peso (PHP)
+qCurrency|PKR|Pakistani Rupee (PKR)
+qCurrency|SEK|Swedish Krona (SEK)
+qCurrency|SGD|Singapore Dollar (SGD)
+qCurrency|THB|Thai Baht (THB)
+qCurrency|TWD|New Taiwan Dollar (TWD)
+qCurrency|VND|Vietnamese Dong (VND)
+qCurrency|CAD|Canadian Dollar (CAD)
+qCurrency|OTHER|Other
+q1|1|Yes
+q1|2|No
+q2|1|Track record
+q2|2|Alignment of interest
+q2|3|Fund manager reputation
+q2|4|Associated costs
+q2|5|Corporate governance framework
+q2|6|No product available at that moment
+q2|7|Other (please specify):
+q8|1|Increase
+q8|2|Decrease
+q8|3|No change
+q9|1|Positive impact
+q9|2|Negative impact
+q9|3|No impact
+q91|1|Yes
+q91|2|No
+q12|1|Multi-sector strategies
+q12|2|Single-sector strategies
+q12|3|Both

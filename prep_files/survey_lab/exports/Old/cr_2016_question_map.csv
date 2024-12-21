@@ -1,0 +1,672 @@
+﻿Column|Format|QuestionText|dtcode
+RecordNo|TEXT|RecordNo|
+Surveycode|TEXT|Surveycode|
+URIstring|TEXT|URIstring|
+DateUpdated|TEXT|DateUpdated|
+DateCompleted|TEXT|DateCompleted|
+PageNo|TEXT|PageNo|
+PathInfo|TEXT|PathInfo|
+Referrer|TEXT|Referrer|
+IPaddress|TEXT|IPaddress|
+Version|TEXT|IGNORE|
+qName|TEXT|Contact Name|
+qCompany|TEXT|Company|
+qJobtitle|TEXT|Job title|
+qEmail|TEXT|Email address|
+qTelephone|TEXT|Contact Number|
+qCountry|TEXT|Country of Origin Global Head Office|
+qCurrency|SELECT|Currency|
+qCurrencyOther|TEXT|Currency (OTHER)|
+q1|SINGLE|Did you raise any capital for non-listed funds, separate accounts, JVs and club deals, funds of funds or non-listed debt funds in 2015?|1
+q2|SINGLE|If no, please state select one of the following reasons:|2
+q2other|TEXT|If no, please state select one of the following reasons: (Other)|3
+||How much capital did your company raise in 2015 by regional strategy (million)?|4
+q31_1|CURRENCY|European strategy - Non-listed/ commingled real estate funds/private REITs|4_1
+q31_2|CURRENCY|European strategy - Separate accounts investing directly into real estate|4_2
+q31_3|CURRENCY|European strategy - Separate accounts investing into indirect vehicles|4_3
+q31_4|CURRENCY|European strategy - Joint ventures and club deals|4_4
+q31_5|CURRENCY|European strategy - Funds of funds|4_5
+q31_6|CURRENCY|European strategy - Non-listed debt products|4_6
+q3ROW1_hidden|CURRENCY|European strategy TOTAL|4_7
+q32_1|CURRENCY|Asia Pacific strategy - Non-listed/ commingled real estate funds/private REITs|4_8
+q32_2|CURRENCY|Asia Pacific strategy - Separate accounts investing directly into real estate|4_9
+q32_3|CURRENCY|Asia Pacific strategy - Separate accounts investing into indirect vehicles|4_10
+q32_4|CURRENCY|Asia Pacific strategy - Joint ventures and club deals|4_11
+q32_5|CURRENCY|Asia Pacific strategy - Funds of funds|4_12
+q32_6|CURRENCY|Asia Pacific strategy - Non-listed debt products|4_13
+q3ROW2_hidden|CURRENCY|Asia Pacific strategy TOTAL|4_14
+q33_1|CURRENCY|North American strategy - Non-listed/ commingled real estate funds/private REITs|4_15
+q33_2|CURRENCY|North American strategy - Separate accounts investing directly into real estate|4_16
+q33_3|CURRENCY|North American strategy - Separate accounts investing into indirect vehicles|4_17
+q33_4|CURRENCY|North American strategy - Joint ventures and club deals|4_18
+q33_5|CURRENCY|North American strategy - Funds of funds|4_19
+q33_6|CURRENCY|North American strategy - Non-listed debt products|4_20
+q3ROW3_hidden|CURRENCY|North American strategy TOTAL|4_21
+q34_1|CURRENCY|Global strategy - Non-listed/ commingled real estate funds/private REITs|4_22
+q34_2|CURRENCY|Global strategy - Separate accounts investing directly into real estate|4_23
+q34_3|CURRENCY|Global strategy - Separate accounts investing into indirect vehicles|4_24
+q34_4|CURRENCY|Global strategy - Joint ventures and club deals|4_25
+q34_5|CURRENCY|Global strategy - Funds of funds|4_26
+q34_6|CURRENCY|Global strategy - Non-listed debt products|4_27
+q3ROW4_hidden|CURRENCY|Global strategy TOTAL|4_28
+q35_1|CURRENCY|South American strategy - Non-listed/ commingled real estate funds/private REITs|4_29
+q35_2|CURRENCY|South American strategy - Separate accounts investing directly into real estate|4_30
+q35_3|CURRENCY|South American strategy - Separate accounts investing into indirect vehicles|4_31
+q35_4|CURRENCY|South American strategy - Joint ventures and club deals|4_32
+q35_5|CURRENCY|South American strategy - Funds of funds|4_33
+q35_6|CURRENCY|South American strategy - Non-listed debt products|4_34
+q3ROW5_hidden|CURRENCY|South American strategy TOTAL|4_35
+q36_1|CURRENCY|African strategy - Non-listed/ commingled real estate funds/private REITs|4_36
+q36_2|CURRENCY|African strategy - Separate accounts investing directly into real estate|4_37
+q36_3|CURRENCY|African strategy - Separate accounts investing into indirect vehicles|4_38
+q36_4|CURRENCY|African strategy - Joint ventures and club deals|4_39
+q36_5|CURRENCY|African strategy - Funds of funds|4_40
+q36_6|CURRENCY|African strategy - Non-listed debt products|4_41
+q3ROW6_hidden|CURRENCY|African strategy TOTAL|4_42
+q3COL1_hidden|CURRENCY|Non-listed/ commingled real estate funds/private REITs TOTAL|4_43
+q3COL2_hidden|CURRENCY|Separate accounts investing directly into real estate TOTAL|4_44
+q3COL3_hidden|CURRENCY|Separate accounts investing into indirect vehicles TOTAL|4_45
+q3COL4_hidden|CURRENCY|Joint ventures and club deals TOTAL|4_46
+q3COL5_hidden|CURRENCY|Funds of funds TOTAL|4_47
+q3COL6_hidden|CURRENCY|Non-listed debt products TOTAL|4_48
+q3GRANDTotal_hidden|CURRENCY|TOTAL capital raised in 2015 by regional strategy (million)|4_49
+ShowEurope||IGNORE|4_50
+ShowAsia||IGNORE|4_51
+ShowNA||IGNORE|4_52
+ShowGlobal||IGNORE|4_53
+ShowSA||IGNORE|4_54
+ShowAfrica||IGNORE|4_55
+||For how many vehicles did your company raise capital for in 2015 by regional strategy?|5
+q41_1|NUMBER|European strategy - Non-listed/ commingled real estate funds/private REITs|5_1
+q41_2|NUMBER|European strategy - Separate accounts investing directly into real estate|5_2
+q41_3|NUMBER|European strategy - Separate accounts investing into indirect vehicles|5_3
+q41_4|NUMBER|European strategy - Joint ventures and club deals|5_4
+q41_5|NUMBER|European strategy - Funds of funds|5_5
+q41_6|NUMBER|European strategy - Non-listed debt products|5_6
+q4ROW1_hidden|NUMBER|European strategy TOTAL|5_7
+q42_1|NUMBER|Asia Pacific strategy - Non-listed/ commingled real estate funds/private REITs|5_8
+q42_2|NUMBER|Asia Pacific strategy - Separate accounts investing directly into real estate|5_9
+q42_3|NUMBER|Asia Pacific strategy - Separate accounts investing into indirect vehicles|5_10
+q42_4|NUMBER|Asia Pacific strategy - Joint ventures and club deals|5_11
+q42_5|NUMBER|Asia Pacific strategy - Funds of funds|5_12
+q42_6|NUMBER|Asia Pacific strategy - Non-listed debt products|5_13
+q4ROW2_hidden|NUMBER|Asia Pacific strategy TOTAL|5_14
+q43_1|NUMBER|North American strategy - Non-listed/ commingled real estate funds/private REITs|5_15
+q43_2|NUMBER|North American strategy - Separate accounts investing directly into real estate|5_16
+q43_3|NUMBER|North American strategy - Separate accounts investing into indirect vehicles|5_17
+q43_4|NUMBER|North American strategy - Joint ventures and club deals|5_18
+q43_5|NUMBER|North American strategy - Funds of funds|5_19
+q43_6|NUMBER|North American strategy - Non-listed debt products|5_20
+q4ROW3_hidden|NUMBER|North American strategy TOTAL|5_21
+q44_1|NUMBER|Global strategy - Non-listed/ commingled real estate funds/private REITs|5_22
+q44_2|NUMBER|Global strategy - Separate accounts investing directly into real estate|5_23
+q44_3|NUMBER|Global strategy - Separate accounts investing into indirect vehicles|5_24
+q44_4|NUMBER|Global strategy - Joint ventures and club deals|5_25
+q44_5|NUMBER|Global strategy - Funds of funds|5_26
+q44_6|NUMBER|Global strategy - Non-listed debt products|5_27
+q4ROW4_hidden|NUMBER|Global strategy TOTAL|5_28
+q45_1|NUMBER|South American strategy - Non-listed/ commingled real estate funds/private REITs|5_29
+q45_2|NUMBER|South American strategy - Separate accounts investing directly into real estate|5_30
+q45_3|NUMBER|South American strategy - Separate accounts investing into indirect vehicles|5_31
+q45_4|NUMBER|South American strategy - Joint ventures and club deals|5_32
+q45_5|NUMBER|South American strategy - Funds of funds|5_33
+q45_6|NUMBER|South American strategy - Non-listed debt products|5_34
+q4ROW5_hidden|NUMBER|South American strategy TOTAL|5_35
+q46_1|NUMBER|African strategy - Non-listed/ commingled real estate funds/private REITs|5_36
+q46_2|NUMBER|African strategy - Separate accounts investing directly into real estate|5_37
+q46_3|NUMBER|African strategy - Separate accounts investing into indirect vehicles|5_38
+q46_4|NUMBER|African strategy - Joint ventures and club deals|5_39
+q46_5|NUMBER|African strategy - Funds of funds|5_40
+q46_6|NUMBER|African strategy - Non-listed debt products|5_41
+q4ROW6_hidden|NUMBER|African strategy TOTAL|5_42
+q4COL1_hidden|NUMBER|Non-listed/ commingled real estate funds/private REITs TOTAL|5_43
+q4COL2_hidden|NUMBER|Separate accounts investing directly into real estate TOTAL|5_44
+q4COL3_hidden|NUMBER|Separate accounts investing into indirect vehicles TOTAL|5_45
+q4COL4_hidden|NUMBER|Joint ventures and club deals TOTAL|5_46
+q4COL5_hidden|NUMBER|Funds of funds TOTAL|5_47
+q4COL6_hidden|NUMBER|Non-listed debt products TOTAL|5_48
+q4GRANDTotal_hidden|NUMBER|Total number of vehicles company raised capital for in 2015 by regional strategy|5_49
+Alert41_1||IGNORE|5_50
+Alert41_2||IGNORE|5_51
+Alert41_3||IGNORE|5_52
+Alert41_4||IGNORE|5_53
+Alert41_5||IGNORE|5_54
+Alert41_6||IGNORE|5_55
+Alert42_1||IGNORE|5_56
+Alert42_2||IGNORE|5_57
+Alert42_3||IGNORE|5_58
+Alert42_4||IGNORE|5_59
+Alert42_5||IGNORE|5_60
+Alert42_6||IGNORE|5_61
+Alert43_1||IGNORE|5_62
+Alert43_2||IGNORE|5_63
+Alert43_3||IGNORE|5_64
+Alert43_4||IGNORE|5_65
+Alert43_5||IGNORE|5_66
+Alert43_6||IGNORE|5_67
+Alert44_1||IGNORE|5_68
+Alert44_2||IGNORE|5_69
+Alert44_3||IGNORE|5_70
+Alert44_4||IGNORE|5_71
+Alert44_5||IGNORE|5_72
+Alert44_6||IGNORE|5_73
+Alert45_1||IGNORE|5_74
+Alert45_2||IGNORE|5_75
+Alert45_3||IGNORE|5_76
+Alert45_4||IGNORE|5_77
+Alert45_5||IGNORE|5_78
+Alert45_6||IGNORE|5_79
+Alert46_1||IGNORE|5_80
+Alert46_2||IGNORE|5_81
+Alert46_3||IGNORE|5_82
+Alert46_4||IGNORE|5_83
+Alert46_5||IGNORE|5_84
+Alert46_6||IGNORE|5_85
+||How much capital did your company raise in 2015 from institutional investors by investor type (million)?|6
+q51_1|CURRENCY|Pension funds - Non-listed/ commingled real estate funds/private REITs|6_1
+q51_2|CURRENCY|Pension funds - Separate accounts investing directly into real estate|6_2
+q51_3|CURRENCY|Pension funds - Separate accounts investing into indirect vehicles|6_3
+q51_4|CURRENCY|Pension funds - Joint ventures and club deals|6_4
+q51_5|CURRENCY|Pension funds - Funds of funds|6_5
+q51_6|CURRENCY|Pension funds - Non-listed debt products|6_6
+q5ROW1_hidden|CURRENCY|Pension funds TOTAL|6_7
+q52_1|CURRENCY|Insurance companies - Non-listed/ commingled real estate funds/private REITs|6_8
+q52_2|CURRENCY|Insurance companies - Separate accounts investing directly into real estate|6_9
+q52_3|CURRENCY|Insurance companies - Separate accounts investing into indirect vehicles|6_10
+q52_4|CURRENCY|Insurance companies - Joint ventures and club deals|6_11
+q52_5|CURRENCY|Insurance companies - Funds of funds|6_12
+q52_6|CURRENCY|Insurance companies - Non-listed debt products|6_13
+q5ROW2_hidden|CURRENCY|Insurance companies TOTAL|6_14
+q53_1|CURRENCY|Sovereign wealth funds - Non-listed/ commingled real estate funds/private REITs|6_15
+q53_2|CURRENCY|Sovereign wealth funds - Separate accounts investing directly into real estate|6_16
+q53_3|CURRENCY|Sovereign wealth funds - Separate accounts investing into indirect vehicles|6_17
+q53_4|CURRENCY|Sovereign wealth funds - Joint ventures and club deals|6_18
+q53_5|CURRENCY|Sovereign wealth funds - Funds of funds|6_19
+q53_6|CURRENCY|Sovereign wealth funds - Non-listed debt products|6_20
+q5ROW3_hidden|CURRENCY|Sovereign wealth funds TOTAL|6_21
+q54_1|CURRENCY|Government institutions - Non-listed/ commingled real estate funds/private REITs|6_22
+q54_2|CURRENCY|Government institutions - Separate accounts investing directly into real estate|6_23
+q54_3|CURRENCY|Government institutions - Separate accounts investing into indirect vehicles|6_24
+q54_4|CURRENCY|Government institutions - Joint ventures and club deals|6_25
+q54_5|CURRENCY|Government institutions - Funds of funds|6_26
+q54_6|CURRENCY|Government institutions - Non-listed debt products|6_27
+q5ROW4_hidden|CURRENCY|Government institutions TOTAL|6_28
+q55_1|CURRENCY|Charities, foundations, non-profit organisations - Non-listed/ commingled real estate funds/private REITs|6_29
+q55_2|CURRENCY|Charities, foundations, non-profit organisations - Separate accounts investing directly into real estate|6_30
+q55_3|CURRENCY|Charities, foundations, non-profit organisations - Separate accounts investing into indirect vehicles|6_31
+q55_4|CURRENCY|Charities, foundations, non-profit organisations - Joint ventures and club deals|6_32
+q55_5|CURRENCY|Charities, foundations, non-profit organisations - Funds of funds|6_33
+q55_6|CURRENCY|Charities, foundations, non-profit organisations - Non-listed debt products|6_34
+q5ROW5_hidden|CURRENCY|Charities, foundations, non-profit organisations  TOTAL|6_35
+q56_1|CURRENCY|Funds of funds - Non-listed/ commingled real estate funds/private REITs|6_36
+q56_2|CURRENCY|Funds of funds - Separate accounts investing directly into real estate|6_37
+q56_3|CURRENCY|Funds of funds - Separate accounts investing into indirect vehicles|6_38
+q56_4|CURRENCY|Funds of funds - Joint ventures and club deals|6_39
+q56_5|CURRENCY|Funds of funds - Funds of funds|6_40
+q56_6|CURRENCY|Funds of funds - Non-listed debt products|6_41
+q5ROW6_hidden|CURRENCY|Funds of funds TOTAL|6_42
+q57_1|CURRENCY|High net worth individuals /Family offices - Non-listed/ commingled real estate funds/private REITs|6_43
+q57_2|CURRENCY|High net worth individuals /Family offices - Separate accounts investing directly into real estate|6_44
+q57_3|CURRENCY|High net worth individuals /Family offices - Separate accounts investing into indirect vehicles|6_45
+q57_4|CURRENCY|High net worth individuals /Family offices - Joint ventures and club deals|6_46
+q57_5|CURRENCY|High net worth individuals /Family offices - Funds of funds|6_47
+q57_6|CURRENCY|High net worth individuals /Family offices - Non-listed debt products|6_48
+q5ROW7_hidden|CURRENCY|High net worth individuals /Family offices TOTAL|6_49
+q5other|CURRENCY|Other (please specify)|6_50
+q58_1|CURRENCY|Other - Non-listed/ commingled real estate funds/private REITs|6_51
+q58_2|CURRENCY|Other - Separate accounts investing directly into real estate|6_52
+q58_3|CURRENCY|Other - Separate accounts investing into indirect vehicles|6_53
+q58_4|CURRENCY|Other - Joint ventures and club deals|6_54
+q58_5|CURRENCY|Other - Funds of funds|6_55
+q58_6|CURRENCY|Other - Non-listed debt products|6_56
+q5ROW8_hidden|CURRENCY|Other TOTAL|6_57
+q5COL1_hidden|CURRENCY|Non-listed/ commingled real estate funds/private REITs TOTAL|6_58
+q5COL2_hidden|CURRENCY|Separate accounts investing directly into real estate TOTAL|6_59
+q5COL3_hidden|CURRENCY|Separate accounts investing into indirect vehicles TOTAL|6_60
+q5COL4_hidden|CURRENCY|Joint ventures and club deals TOTAL|6_61
+q5COL5_hidden|CURRENCY|Funds of funds TOTAL|6_62
+q5COL6_hidden|CURRENCY|Non-listed debt products TOTAL|6_63
+q5GRANDTotal_hidden|CURRENCY|Total capital company raised in 2015 from institutional investors by investor type (million)|6_64
+||How much capital did your company raise in 2015 from Institutional Investors by investor domicile (million)?|7
+q61_1|CURRENCY|Europe - Non-listed/ commingled real estate funds/private REITs|7_1
+q61_2|CURRENCY|Europe - Separate accounts investing directly into real estate|7_2
+q61_3|CURRENCY|Europe - Separate accounts investing into indirect vehicles|7_3
+q61_4|CURRENCY|Europe - Joint ventures and club deals|7_4
+q61_5|CURRENCY|Europe - Funds of funds|7_5
+q61_6|CURRENCY|Europe - Non-listed debt products|7_6
+q6ROW1_hidden|CURRENCY|Europe  TOTAL|7_7
+q62_1|CURRENCY|Asia Pacific - Non-listed/ commingled real estate funds/private REITs|7_8
+q62_2|CURRENCY|Asia Pacific - Separate accounts investing directly into real estate|7_9
+q62_3|CURRENCY|Asia Pacific - Separate accounts investing into indirect vehicles|7_10
+q62_4|CURRENCY|Asia Pacific - Joint ventures and club deals|7_11
+q62_5|CURRENCY|Asia Pacific - Funds of funds|7_12
+q62_6|CURRENCY|Asia Pacific - Non-listed debt products|7_13
+q6ROW2_hidden|CURRENCY|Asia Pacific  TOTAL|7_14
+q63_1|CURRENCY|North America - Non-listed/ commingled real estate funds/private REITs|7_15
+q63_2|CURRENCY|North America - Separate accounts investing directly into real estate|7_16
+q63_3|CURRENCY|North America - Separate accounts investing into indirect vehicles|7_17
+q63_4|CURRENCY|North America - Joint ventures and club deals|7_18
+q63_5|CURRENCY|North America - Funds of funds|7_19
+q63_6|CURRENCY|North America - Non-listed debt products|7_20
+q6ROW3_hidden|CURRENCY|North America  TOTAL|7_21
+q64_1|CURRENCY|South America - Non-listed/ commingled real estate funds/private REITs|7_22
+q64_2|CURRENCY|South America - Separate accounts investing directly into real estate|7_23
+q64_3|CURRENCY|South America - Separate accounts investing into indirect vehicles|7_24
+q64_4|CURRENCY|South America - Joint ventures and club deals|7_25
+q64_5|CURRENCY|South America - Funds of funds|7_26
+q64_6|CURRENCY|South America - Non-listed debt products|7_27
+q6ROW4_hidden|CURRENCY|South America  TOTAL|7_28
+q65_1|CURRENCY|Africa - Non-listed/ commingled real estate funds/private REITs|7_29
+q65_2|CURRENCY|Africa - Separate accounts investing directly into real estate|7_30
+q65_3|CURRENCY|Africa - Separate accounts investing into indirect vehicles|7_31
+q65_4|CURRENCY|Africa - Joint ventures and club deals|7_32
+q65_5|CURRENCY|Africa - Funds of funds|7_33
+q65_6|CURRENCY|Africa - Non-listed debt products|7_34
+q6ROW5_hidden|CURRENCY|Africa  TOTAL|7_35
+q6COL1_hidden|CURRENCY|Non-listed/ commingled real estate funds/private REITs TOTAL|7_36
+q6COL2_hidden|CURRENCY|Separate accounts investing directly into real estate TOTAL|7_37
+q6COL3_hidden|CURRENCY|Separate accounts investing into indirect vehicles TOTAL|7_38
+q6COL4_hidden|CURRENCY|Joint ventures and club deals TOTAL|7_39
+q6COL5_hidden|CURRENCY|Funds of funds TOTAL|7_40
+q6COL6_hidden|CURRENCY|Non-listed debt products TOTAL|7_41
+q6GRANDTotal_hidden|CURRENCY|Total capital company raised in 2015 from Institutional Investors by investor domicile (million)|7_42
+||What percentage of the total capital was raised via...?|8
+q7_1|%|Placement agent|8_1
+q7_2|%|Investors contacting you directly|8_2
+q7_3|%|Your own direct relationship with investors|8_3
+q7other|TEXT|Other (please specify)|8_4
+q7_4|%|Other|8_5
+||For your European* strategy, how much capital did your company raise in 2015?|9
+q81_1|CURRENCY|(EUROPE) Pension funds - Non-listed/ commingled real estate funds/private REITs|9_1
+q81_2|CURRENCY|(EUROPE) Pension funds - Separate accounts investing directly into real estate|9_2
+q81_3|CURRENCY|(EUROPE) Pension funds - Separate accounts investing into indirect vehicles|9_3
+q81_4|CURRENCY|(EUROPE) Pension funds - Joint ventures and club deals|9_4
+q81_5|CURRENCY|(EUROPE) Pension funds - Funds of funds|9_5
+q81_6|CURRENCY|(EUROPE) Pension funds - Non-listed debt products|9_6
+q8ROW1_hidden|CURRENCY|(EUROPE) Pension funds TOTAL|9_7
+q82_1|CURRENCY|(EUROPE) Insurance companies - Non-listed/ commingled real estate funds/private REITs|9_8
+q82_2|CURRENCY|(EUROPE) Insurance companies - Separate accounts investing directly into real estate|9_9
+q82_3|CURRENCY|(EUROPE) Insurance companies - Separate accounts investing into indirect vehicles|9_10
+q82_4|CURRENCY|(EUROPE) Insurance companies - Joint ventures and club deals|9_11
+q82_5|CURRENCY|(EUROPE) Insurance companies - Funds of funds|9_12
+q82_6|CURRENCY|(EUROPE) Insurance companies - Non-listed debt products|9_13
+q8ROW2_hidden|CURRENCY|(EUROPE) Insurance companies TOTAL|9_14
+q83_1|CURRENCY|(EUROPE) Sovereign wealth funds - Non-listed/ commingled real estate funds/private REITs|9_15
+q83_2|CURRENCY|(EUROPE) Sovereign wealth funds - Separate accounts investing directly into real estate|9_16
+q83_3|CURRENCY|(EUROPE) Sovereign wealth funds - Separate accounts investing into indirect vehicles|9_17
+q83_4|CURRENCY|(EUROPE) Sovereign wealth funds - Joint ventures and club deals|9_18
+q83_5|CURRENCY|(EUROPE) Sovereign wealth funds - Funds of funds|9_19
+q83_6|CURRENCY|(EUROPE) Sovereign wealth funds - Non-listed debt products|9_20
+q8ROW3_hidden|CURRENCY|(EUROPE) Sovereign wealth funds TOTAL|9_21
+q84_1|CURRENCY|(EUROPE) Government institutions - Non-listed/ commingled real estate funds/private REITs|9_22
+q84_2|CURRENCY|(EUROPE) Government institutions - Separate accounts investing directly into real estate|9_23
+q84_3|CURRENCY|(EUROPE) Government institutions - Separate accounts investing into indirect vehicles|9_24
+q84_4|CURRENCY|(EUROPE) Government institutions - Joint ventures and club deals|9_25
+q84_5|CURRENCY|(EUROPE) Government institutions - Funds of funds|9_26
+q84_6|CURRENCY|(EUROPE) Government institutions - Non-listed debt products|9_27
+q8ROW4_hidden|CURRENCY|(EUROPE) Government institutions TOTAL|9_28
+q85_1|CURRENCY|(EUROPE) Charities, foundations, non-profit organisations - Non-listed/ commingled real estate funds/private REITs|9_29
+q85_2|CURRENCY|(EUROPE) Charities, foundations, non-profit organisations - Separate accounts investing directly into real estate|9_30
+q85_3|CURRENCY|(EUROPE) Charities, foundations, non-profit organisations - Separate accounts investing into indirect vehicles|9_31
+q85_4|CURRENCY|(EUROPE) Charities, foundations, non-profit organisations - Joint ventures and club deals|9_32
+q85_5|CURRENCY|(EUROPE) Charities, foundations, non-profit organisations - Funds of funds|9_33
+q85_6|CURRENCY|(EUROPE) Charities, foundations, non-profit organisations - Non-listed debt products|9_34
+q8ROW5_hidden|CURRENCY|(EUROPE) Charities, foundations, non-profit organisations  TOTAL|9_35
+q86_1|CURRENCY|(EUROPE) Funds of funds - Non-listed/ commingled real estate funds/private REITs|9_36
+q86_2|CURRENCY|(EUROPE) Funds of funds - Separate accounts investing directly into real estate|9_37
+q86_3|CURRENCY|(EUROPE) Funds of funds - Separate accounts investing into indirect vehicles|9_38
+q86_4|CURRENCY|(EUROPE) Funds of funds - Joint ventures and club deals|9_39
+q86_5|CURRENCY|(EUROPE) Funds of funds - Funds of funds|9_40
+q86_6|CURRENCY|(EUROPE) Funds of funds - Non-listed debt products|9_41
+q8ROW6_hidden|CURRENCY|(EUROPE) Funds of funds TOTAL|9_42
+q87_1|CURRENCY|(EUROPE) High net worth individuals /Family offices - Non-listed/ commingled real estate funds/private REITs|9_43
+q87_2|CURRENCY|(EUROPE) High net worth individuals /Family offices - Separate accounts investing directly into real estate|9_44
+q87_3|CURRENCY|(EUROPE) High net worth individuals /Family offices - Separate accounts investing into indirect vehicles|9_45
+q87_4|CURRENCY|(EUROPE) High net worth individuals /Family offices - Joint ventures and club deals|9_46
+q87_5|CURRENCY|(EUROPE) High net worth individuals /Family offices - Funds of funds|9_47
+q87_6|CURRENCY|(EUROPE) High net worth individuals /Family offices - Non-listed debt products|9_48
+q8ROW7_hidden|CURRENCY|(EUROPE) High net worth individuals /Family offices TOTAL|9_49
+q8other|CURRENCY|(EUROPE) Other (please specify)|9_50
+q88_1|CURRENCY|(EUROPE) Other - Non-listed/ commingled real estate funds/private REITs|9_51
+q88_2|CURRENCY|(EUROPE) Other - Separate accounts investing directly into real estate|9_52
+q88_3|CURRENCY|(EUROPE) Other - Separate accounts investing into indirect vehicles|9_53
+q88_4|CURRENCY|(EUROPE) Other - Joint ventures and club deals|9_54
+q88_5|CURRENCY|(EUROPE) Other - Funds of funds|9_55
+q88_6|CURRENCY|(EUROPE) Other - Non-listed debt products|9_56
+q8ROW8_hidden|CURRENCY|(EUROPE) Other TOTAL|9_57
+q8COL1_hidden|CURRENCY|(EUROPE) Non-listed/ commingled real estate funds/private REITs TOTAL|9_58
+q8COL2_hidden|CURRENCY|(EUROPE) Separate accounts investing directly into real estate TOTAL|9_59
+q8COL3_hidden|CURRENCY|(EUROPE) Separate accounts investing into indirect vehicles TOTAL|9_60
+q8COL4_hidden|CURRENCY|(EUROPE) Joint ventures and club deals TOTAL|9_61
+q8COL5_hidden|CURRENCY|(EUROPE) Funds of funds TOTAL|9_62
+q8COL6_hidden|CURRENCY|(EUROPE) Non-listed debt products TOTAL|9_63
+q8GRANDTotal_hidden|CURRENCY|(EUROPE) Total capital  raised in 2015 from European strategy|9_64
+||For your Asia Pacific* strategy, how much capital did your company raise in 2015?|10
+q91_1|CURRENCY|(ASIA PACIFIC) Pension funds - Non-listed/ commingled real estate funds/private REITs|10_1
+q91_2|CURRENCY|(ASIA PACIFIC) Pension funds - Separate accounts investing directly into real estate|10_2
+q91_3|CURRENCY|(ASIA PACIFIC) Pension funds - Separate accounts investing into indirect vehicles|10_3
+q91_4|CURRENCY|(ASIA PACIFIC) Pension funds - Joint ventures and club deals|10_4
+q91_5|CURRENCY|(ASIA PACIFIC) Pension funds - Funds of funds|10_5
+q91_6|CURRENCY|(ASIA PACIFIC) Pension funds - Non-listed debt products|10_6
+q9ROW1_hidden|CURRENCY|(ASIA PACIFIC) Pension funds TOTAL|10_7
+q92_1|CURRENCY|(ASIA PACIFIC) Insurance companies - Non-listed/ commingled real estate funds/private REITs|10_8
+q92_2|CURRENCY|(ASIA PACIFIC) Insurance companies - Separate accounts investing directly into real estate|10_9
+q92_3|CURRENCY|(ASIA PACIFIC) Insurance companies - Separate accounts investing into indirect vehicles|10_10
+q92_4|CURRENCY|(ASIA PACIFIC) Insurance companies - Joint ventures and club deals|10_11
+q92_5|CURRENCY|(ASIA PACIFIC) Insurance companies - Funds of funds|10_12
+q92_6|CURRENCY|(ASIA PACIFIC) Insurance companies - Non-listed debt products|10_13
+q9ROW2_hidden|CURRENCY|(ASIA PACIFIC) Insurance companies TOTAL|10_14
+q93_1|CURRENCY|(ASIA PACIFIC) Sovereign wealth funds - Non-listed/ commingled real estate funds/private REITs|10_15
+q93_2|CURRENCY|(ASIA PACIFIC) Sovereign wealth funds - Separate accounts investing directly into real estate|10_16
+q93_3|CURRENCY|(ASIA PACIFIC) Sovereign wealth funds - Separate accounts investing into indirect vehicles|10_17
+q93_4|CURRENCY|(ASIA PACIFIC) Sovereign wealth funds - Joint ventures and club deals|10_18
+q93_5|CURRENCY|(ASIA PACIFIC) Sovereign wealth funds - Funds of funds|10_19
+q93_6|CURRENCY|(ASIA PACIFIC) Sovereign wealth funds - Non-listed debt products|10_20
+q9ROW3_hidden|CURRENCY|(ASIA PACIFIC) Sovereign wealth funds TOTAL|10_21
+q94_1|CURRENCY|(ASIA PACIFIC) Government institutions - Non-listed/ commingled real estate funds/private REITs|10_22
+q94_2|CURRENCY|(ASIA PACIFIC) Government institutions - Separate accounts investing directly into real estate|10_23
+q94_3|CURRENCY|(ASIA PACIFIC) Government institutions - Separate accounts investing into indirect vehicles|10_24
+q94_4|CURRENCY|(ASIA PACIFIC) Government institutions - Joint ventures and club deals|10_25
+q94_5|CURRENCY|(ASIA PACIFIC) Government institutions - Funds of funds|10_26
+q94_6|CURRENCY|(ASIA PACIFIC) Government institutions - Non-listed debt products|10_27
+q9ROW4_hidden|CURRENCY|(ASIA PACIFIC) Government institutions TOTAL|10_28
+q95_1|CURRENCY|(ASIA PACIFIC) Charities, foundations, non-profit organisations - Non-listed/ commingled real estate funds/private REITs|10_29
+q95_2|CURRENCY|(ASIA PACIFIC) Charities, foundations, non-profit organisations - Separate accounts investing directly into real estate|10_30
+q95_3|CURRENCY|(ASIA PACIFIC) Charities, foundations, non-profit organisations - Separate accounts investing into indirect vehicles|10_31
+q95_4|CURRENCY|(ASIA PACIFIC) Charities, foundations, non-profit organisations - Joint ventures and club deals|10_32
+q95_5|CURRENCY|(ASIA PACIFIC) Charities, foundations, non-profit organisations - Funds of funds|10_33
+q95_6|CURRENCY|(ASIA PACIFIC) Charities, foundations, non-profit organisations - Non-listed debt products|10_34
+q9ROW5_hidden|CURRENCY|(ASIA PACIFIC) Charities, foundations, non-profit organisations  TOTAL|10_35
+q96_1|CURRENCY|(ASIA PACIFIC) Funds of funds - Non-listed/ commingled real estate funds/private REITs|10_36
+q96_2|CURRENCY|(ASIA PACIFIC) Funds of funds - Separate accounts investing directly into real estate|10_37
+q96_3|CURRENCY|(ASIA PACIFIC) Funds of funds - Separate accounts investing into indirect vehicles|10_38
+q96_4|CURRENCY|(ASIA PACIFIC) Funds of funds - Joint ventures and club deals|10_39
+q96_5|CURRENCY|(ASIA PACIFIC) Funds of funds - Funds of funds|10_40
+q96_6|CURRENCY|(ASIA PACIFIC) Funds of funds - Non-listed debt products|10_41
+q9ROW6_hidden|CURRENCY|(ASIA PACIFIC) Funds of funds TOTAL|10_42
+q97_1|CURRENCY|(ASIA PACIFIC) High net worth individuals /Family offices - Non-listed/ commingled real estate funds/private REITs|10_43
+q97_2|CURRENCY|(ASIA PACIFIC) High net worth individuals /Family offices - Separate accounts investing directly into real estate|10_44
+q97_3|CURRENCY|(ASIA PACIFIC) High net worth individuals /Family offices - Separate accounts investing into indirect vehicles|10_45
+q97_4|CURRENCY|(ASIA PACIFIC) High net worth individuals /Family offices - Joint ventures and club deals|10_46
+q97_5|CURRENCY|(ASIA PACIFIC) High net worth individuals /Family offices - Funds of funds|10_47
+q97_6|CURRENCY|(ASIA PACIFIC) High net worth individuals /Family offices - Non-listed debt products|10_48
+q9ROW7_hidden|CURRENCY|(ASIA PACIFIC) High net worth individuals /Family offices TOTAL|10_49
+q9other|CURRENCY|(ASIA PACIFIC) Other (please specify)|10_50
+q98_1|CURRENCY|(ASIA PACIFIC) Other - Non-listed/ commingled real estate funds/private REITs|10_51
+q98_2|CURRENCY|(ASIA PACIFIC) Other - Separate accounts investing directly into real estate|10_52
+q98_3|CURRENCY|(ASIA PACIFIC) Other - Separate accounts investing into indirect vehicles|10_53
+q98_4|CURRENCY|(ASIA PACIFIC) Other - Joint ventures and club deals|10_54
+q98_5|CURRENCY|(ASIA PACIFIC) Other - Funds of funds|10_55
+q98_6|CURRENCY|(ASIA PACIFIC) Other - Non-listed debt products|10_56
+q9ROW8_hidden|CURRENCY|(ASIA PACIFIC) Other TOTAL|10_57
+q9COL1_hidden|CURRENCY|(ASIA PACIFIC) Non-listed/ commingled real estate funds/private REITs TOTAL|10_58
+q9COL2_hidden|CURRENCY|(ASIA PACIFIC) Separate accounts investing directly into real estate TOTAL|10_59
+q9COL3_hidden|CURRENCY|(ASIA PACIFIC) Separate accounts investing into indirect vehicles TOTAL|10_60
+q9COL4_hidden|CURRENCY|(ASIA PACIFIC) Joint ventures and club deals TOTAL|10_61
+q9COL5_hidden|CURRENCY|(ASIA PACIFIC) Funds of funds TOTAL|10_62
+q9COL6_hidden|CURRENCY|(ASIA PACIFIC) Non-listed debt products TOTAL|10_63
+q9GRANDTotal_hidden|CURRENCY|(ASIA PACIFIC) Total capital  raised in 2015 from Asia Pacific strategy|10_64
+||For your North American* strategy, how much capital did your company raise in 2015?|11
+q101_1|CURRENCY|(NORTH AMERICA) Pension funds - Non-listed/ commingled real estate funds/private REITs|11_1
+q101_2|CURRENCY|(NORTH AMERICA) Pension funds - Separate accounts investing directly into real estate|11_2
+q101_3|CURRENCY|(NORTH AMERICA) Pension funds - Separate accounts investing into indirect vehicles|11_3
+q101_4|CURRENCY|(NORTH AMERICA) Pension funds - Joint ventures and club deals|11_4
+q101_5|CURRENCY|(NORTH AMERICA) Pension funds - Funds of funds|11_5
+q101_6|CURRENCY|(NORTH AMERICA) Pension funds - Non-listed debt products|11_6
+q10ROW1_hidden|CURRENCY|(NORTH AMERICA) Pension funds TOTAL|11_7
+q102_1|CURRENCY|(NORTH AMERICA) Insurance companies - Non-listed/ commingled real estate funds/private REITs|11_8
+q102_2|CURRENCY|(NORTH AMERICA) Insurance companies - Separate accounts investing directly into real estate|11_9
+q102_3|CURRENCY|(NORTH AMERICA) Insurance companies - Separate accounts investing into indirect vehicles|11_10
+q102_4|CURRENCY|(NORTH AMERICA) Insurance companies - Joint ventures and club deals|11_11
+q102_5|CURRENCY|(NORTH AMERICA) Insurance companies - Funds of funds|11_12
+q102_6|CURRENCY|(NORTH AMERICA) Insurance companies - Non-listed debt products|11_13
+q10ROW2_hidden|CURRENCY|(NORTH AMERICA) Insurance companies TOTAL|11_14
+q103_1|CURRENCY|(NORTH AMERICA) Sovereign wealth funds - Non-listed/ commingled real estate funds/private REITs|11_15
+q103_2|CURRENCY|(NORTH AMERICA) Sovereign wealth funds - Separate accounts investing directly into real estate|11_16
+q103_3|CURRENCY|(NORTH AMERICA) Sovereign wealth funds - Separate accounts investing into indirect vehicles|11_17
+q103_4|CURRENCY|(NORTH AMERICA) Sovereign wealth funds - Joint ventures and club deals|11_18
+q103_5|CURRENCY|(NORTH AMERICA) Sovereign wealth funds - Funds of funds|11_19
+q103_6|CURRENCY|(NORTH AMERICA) Sovereign wealth funds - Non-listed debt products|11_20
+q10ROW3_hidden|CURRENCY|(NORTH AMERICA) Sovereign wealth funds TOTAL|11_21
+q104_1|CURRENCY|(NORTH AMERICA) Government institutions - Non-listed/ commingled real estate funds/private REITs|11_22
+q104_2|CURRENCY|(NORTH AMERICA) Government institutions - Separate accounts investing directly into real estate|11_23
+q104_3|CURRENCY|(NORTH AMERICA) Government institutions - Separate accounts investing into indirect vehicles|11_24
+q104_4|CURRENCY|(NORTH AMERICA) Government institutions - Joint ventures and club deals|11_25
+q104_5|CURRENCY|(NORTH AMERICA) Government institutions - Funds of funds|11_26
+q104_6|CURRENCY|(NORTH AMERICA) Government institutions - Non-listed debt products|11_27
+q10ROW4_hidden|CURRENCY|(NORTH AMERICA) Government institutions TOTAL|11_28
+q105_1|CURRENCY|(NORTH AMERICA) Charities, foundations, non-profit organisations - Non-listed/ commingled real estate funds/private REITs|11_29
+q105_2|CURRENCY|(NORTH AMERICA) Charities, foundations, non-profit organisations - Separate accounts investing directly into real estate|11_30
+q105_3|CURRENCY|(NORTH AMERICA) Charities, foundations, non-profit organisations - Separate accounts investing into indirect vehicles|11_31
+q105_4|CURRENCY|(NORTH AMERICA) Charities, foundations, non-profit organisations - Joint ventures and club deals|11_32
+q105_5|CURRENCY|(NORTH AMERICA) Charities, foundations, non-profit organisations - Funds of funds|11_33
+q105_6|CURRENCY|(NORTH AMERICA) Charities, foundations, non-profit organisations - Non-listed debt products|11_34
+q10ROW5_hidden|CURRENCY|(NORTH AMERICA) Charities, foundations, non-profit organisations  TOTAL|11_35
+q106_1|CURRENCY|(NORTH AMERICA) Funds of funds - Non-listed/ commingled real estate funds/private REITs|11_36
+q106_2|CURRENCY|(NORTH AMERICA) Funds of funds - Separate accounts investing directly into real estate|11_37
+q106_3|CURRENCY|(NORTH AMERICA) Funds of funds - Separate accounts investing into indirect vehicles|11_38
+q106_4|CURRENCY|(NORTH AMERICA) Funds of funds - Joint ventures and club deals|11_39
+q106_5|CURRENCY|(NORTH AMERICA) Funds of funds - Funds of funds|11_40
+q106_6|CURRENCY|(NORTH AMERICA) Funds of funds - Non-listed debt products|11_41
+q10ROW6_hidden|CURRENCY|(NORTH AMERICA) Funds of funds TOTAL|11_42
+q107_1|CURRENCY|(NORTH AMERICA) High net worth individuals /Family offices - Non-listed/ commingled real estate funds/private REITs|11_43
+q107_2|CURRENCY|(NORTH AMERICA) High net worth individuals /Family offices - Separate accounts investing directly into real estate|11_44
+q107_3|CURRENCY|(NORTH AMERICA) High net worth individuals /Family offices - Separate accounts investing into indirect vehicles|11_45
+q107_4|CURRENCY|(NORTH AMERICA) High net worth individuals /Family offices - Joint ventures and club deals|11_46
+q107_5|CURRENCY|(NORTH AMERICA) High net worth individuals /Family offices - Funds of funds|11_47
+q107_6|CURRENCY|(NORTH AMERICA) High net worth individuals /Family offices - Non-listed debt products|11_48
+q10ROW7_hidden|CURRENCY|(NORTH AMERICA) High net worth individuals /Family offices TOTAL|11_49
+q10other|CURRENCY|(NORTH AMERICA) Other (please specify)|11_50
+q108_1|CURRENCY|(NORTH AMERICA) Other - Non-listed/ commingled real estate funds/private REITs|11_51
+q108_2|CURRENCY|(NORTH AMERICA) Other - Separate accounts investing directly into real estate|11_52
+q108_3|CURRENCY|(NORTH AMERICA) Other - Separate accounts investing into indirect vehicles|11_53
+q108_4|CURRENCY|(NORTH AMERICA) Other - Joint ventures and club deals|11_54
+q108_5|CURRENCY|(NORTH AMERICA) Other - Funds of funds|11_55
+q108_6|CURRENCY|(NORTH AMERICA) Other - Non-listed debt products|11_56
+q10ROW8_hidden|CURRENCY|(NORTH AMERICA) Other TOTAL|11_57
+q10COL1_hidden|CURRENCY|(NORTH AMERICA) Non-listed/ commingled real estate funds/private REITs TOTAL|11_58
+q10COL2_hidden|CURRENCY|(NORTH AMERICA) Separate accounts investing directly into real estate TOTAL|11_59
+q10COL3_hidden|CURRENCY|(NORTH AMERICA) Separate accounts investing into indirect vehicles TOTAL|11_60
+q10COL4_hidden|CURRENCY|(NORTH AMERICA) Joint ventures and club deals TOTAL|11_61
+q10COL5_hidden|CURRENCY|(NORTH AMERICA) Funds of funds TOTAL|11_62
+q10COL6_hidden|CURRENCY|(NORTH AMERICA) Non-listed debt products TOTAL|11_63
+q10GRANDTotal_hidden|CURRENCY|(NORTH AMERICA) Total capital  raised in 2015 from North American strategy|11_64
+||For your Global* strategy, how much capital did your company raise in 2015?|12
+q111_1|CURRENCY|(GLOBAL) Pension funds - Non-listed/ commingled real estate funds/private REITs|12_1
+q111_2|CURRENCY|(GLOBAL) Pension funds - Separate accounts investing directly into real estate|12_2
+q111_3|CURRENCY|(GLOBAL) Pension funds - Separate accounts investing into indirect vehicles|12_3
+q111_4|CURRENCY|(GLOBAL) Pension funds - Joint ventures and club deals|12_4
+q111_5|CURRENCY|(GLOBAL) Pension funds - Funds of funds|12_5
+q111_6|CURRENCY|(GLOBAL) Pension funds - Non-listed debt products|12_6
+q11ROW1_hidden|CURRENCY|(GLOBAL) Pension funds TOTAL|12_7
+q112_1|CURRENCY|(GLOBAL) Insurance companies - Non-listed/ commingled real estate funds/private REITs|12_8
+q112_2|CURRENCY|(GLOBAL) Insurance companies - Separate accounts investing directly into real estate|12_9
+q112_3|CURRENCY|(GLOBAL) Insurance companies - Separate accounts investing into indirect vehicles|12_10
+q112_4|CURRENCY|(GLOBAL) Insurance companies - Joint ventures and club deals|12_11
+q112_5|CURRENCY|(GLOBAL) Insurance companies - Funds of funds|12_12
+q112_6|CURRENCY|(GLOBAL) Insurance companies - Non-listed debt products|12_13
+q11ROW2_hidden|CURRENCY|(GLOBAL) Insurance companies TOTAL|12_14
+q113_1|CURRENCY|(GLOBAL) Sovereign wealth funds - Non-listed/ commingled real estate funds/private REITs|12_15
+q113_2|CURRENCY|(GLOBAL) Sovereign wealth funds - Separate accounts investing directly into real estate|12_16
+q113_3|CURRENCY|(GLOBAL) Sovereign wealth funds - Separate accounts investing into indirect vehicles|12_17
+q113_4|CURRENCY|(GLOBAL) Sovereign wealth funds - Joint ventures and club deals|12_18
+q113_5|CURRENCY|(GLOBAL) Sovereign wealth funds - Funds of funds|12_19
+q113_6|CURRENCY|(GLOBAL) Sovereign wealth funds - Non-listed debt products|12_20
+q11ROW3_hidden|CURRENCY|(GLOBAL) Sovereign wealth funds TOTAL|12_21
+q114_1|CURRENCY|(GLOBAL) Government institutions - Non-listed/ commingled real estate funds/private REITs|12_22
+q114_2|CURRENCY|(GLOBAL) Government institutions - Separate accounts investing directly into real estate|12_23
+q114_3|CURRENCY|(GLOBAL) Government institutions - Separate accounts investing into indirect vehicles|12_24
+q114_4|CURRENCY|(GLOBAL) Government institutions - Joint ventures and club deals|12_25
+q114_5|CURRENCY|(GLOBAL) Government institutions - Funds of funds|12_26
+q114_6|CURRENCY|(GLOBAL) Government institutions - Non-listed debt products|12_27
+q11ROW4_hidden|CURRENCY|(GLOBAL) Government institutions TOTAL|12_28
+q115_1|CURRENCY|(GLOBAL) Charities, foundations, non-profit organisations - Non-listed/ commingled real estate funds/private REITs|12_29
+q115_2|CURRENCY|(GLOBAL) Charities, foundations, non-profit organisations - Separate accounts investing directly into real estate|12_30
+q115_3|CURRENCY|(GLOBAL) Charities, foundations, non-profit organisations - Separate accounts investing into indirect vehicles|12_31
+q115_4|CURRENCY|(GLOBAL) Charities, foundations, non-profit organisations - Joint ventures and club deals|12_32
+q115_5|CURRENCY|(GLOBAL) Charities, foundations, non-profit organisations - Funds of funds|12_33
+q115_6|CURRENCY|(GLOBAL) Charities, foundations, non-profit organisations - Non-listed debt products|12_34
+q11ROW5_hidden|CURRENCY|(GLOBAL) Charities, foundations, non-profit organisations  TOTAL|12_35
+q116_1|CURRENCY|(GLOBAL) Funds of funds - Non-listed/ commingled real estate funds/private REITs|12_36
+q116_2|CURRENCY|(GLOBAL) Funds of funds - Separate accounts investing directly into real estate|12_37
+q116_3|CURRENCY|(GLOBAL) Funds of funds - Separate accounts investing into indirect vehicles|12_38
+q116_4|CURRENCY|(GLOBAL) Funds of funds - Joint ventures and club deals|12_39
+q116_5|CURRENCY|(GLOBAL) Funds of funds - Funds of funds|12_40
+q116_6|CURRENCY|(GLOBAL) Funds of funds - Non-listed debt products|12_41
+q11ROW6_hidden|CURRENCY|(GLOBAL) Funds of funds TOTAL|12_42
+q117_1|CURRENCY|(GLOBAL) High net worth individuals /Family offices - Non-listed/ commingled real estate funds/private REITs|12_43
+q117_2|CURRENCY|(GLOBAL) High net worth individuals /Family offices - Separate accounts investing directly into real estate|12_44
+q117_3|CURRENCY|(GLOBAL) High net worth individuals /Family offices - Separate accounts investing into indirect vehicles|12_45
+q117_4|CURRENCY|(GLOBAL) High net worth individuals /Family offices - Joint ventures and club deals|12_46
+q117_5|CURRENCY|(GLOBAL) High net worth individuals /Family offices - Funds of funds|12_47
+q117_6|CURRENCY|(GLOBAL) High net worth individuals /Family offices - Non-listed debt products|12_48
+q11ROW7_hidden|CURRENCY|(GLOBAL) High net worth individuals /Family offices TOTAL|12_49
+q11other|CURRENCY|(GLOBAL) Other (please specify)|12_50
+q118_1|CURRENCY|(GLOBAL) Other - Non-listed/ commingled real estate funds/private REITs|12_51
+q118_2|CURRENCY|(GLOBAL) Other - Separate accounts investing directly into real estate|12_52
+q118_3|CURRENCY|(GLOBAL) Other - Separate accounts investing into indirect vehicles|12_53
+q118_4|CURRENCY|(GLOBAL) Other - Joint ventures and club deals|12_54
+q118_5|CURRENCY|(GLOBAL) Other - Funds of funds|12_55
+q118_6|CURRENCY|(GLOBAL) Other - Non-listed debt products|12_56
+q11ROW8_hidden|CURRENCY|(GLOBAL) Other TOTAL|12_57
+q11COL1_hidden|CURRENCY|(GLOBAL) Non-listed/ commingled real estate funds/private REITs TOTAL|12_58
+q11COL2_hidden|CURRENCY|(GLOBAL) Separate accounts investing directly into real estate TOTAL|12_59
+q11COL3_hidden|CURRENCY|(GLOBAL) Separate accounts investing into indirect vehicles TOTAL|12_60
+q11COL4_hidden|CURRENCY|(GLOBAL) Joint ventures and club deals TOTAL|12_61
+q11COL5_hidden|CURRENCY|(GLOBAL) Funds of funds TOTAL|12_62
+q11COL6_hidden|CURRENCY|(GLOBAL) Non-listed debt products TOTAL|12_63
+q11GRANDTotal_hidden|CURRENCY|(GLOBAL) Total capital  raised in 2015 from Global strategy|12_64
+||For your South American* strategy, how much capital did your company raise in 2015?|13
+q121_1|CURRENCY|(SOUTH AMERICA) Pension funds - Non-listed/ commingled real estate funds/private REITs|13_1
+q121_2|CURRENCY|(SOUTH AMERICA) Pension funds - Separate accounts investing directly into real estate|13_2
+q121_3|CURRENCY|(SOUTH AMERICA) Pension funds - Separate accounts investing into indirect vehicles|13_3
+q121_4|CURRENCY|(SOUTH AMERICA) Pension funds - Joint ventures and club deals|13_4
+q121_5|CURRENCY|(SOUTH AMERICA) Pension funds - Funds of funds|13_5
+q121_6|CURRENCY|(SOUTH AMERICA) Pension funds - Non-listed debt products|13_6
+q12ROW1_hidden|CURRENCY|(SOUTH AMERICA) Pension funds TOTAL|13_7
+q122_1|CURRENCY|(SOUTH AMERICA) Insurance companies - Non-listed/ commingled real estate funds/private REITs|13_8
+q122_2|CURRENCY|(SOUTH AMERICA) Insurance companies - Separate accounts investing directly into real estate|13_9
+q122_3|CURRENCY|(SOUTH AMERICA) Insurance companies - Separate accounts investing into indirect vehicles|13_10
+q122_4|CURRENCY|(SOUTH AMERICA) Insurance companies - Joint ventures and club deals|13_11
+q122_5|CURRENCY|(SOUTH AMERICA) Insurance companies - Funds of funds|13_12
+q122_6|CURRENCY|(SOUTH AMERICA) Insurance companies - Non-listed debt products|13_13
+q12ROW2_hidden|CURRENCY|(SOUTH AMERICA) Insurance companies TOTAL|13_14
+q123_1|CURRENCY|(SOUTH AMERICA) Sovereign wealth funds - Non-listed/ commingled real estate funds/private REITs|13_15
+q123_2|CURRENCY|(SOUTH AMERICA) Sovereign wealth funds - Separate accounts investing directly into real estate|13_16
+q123_3|CURRENCY|(SOUTH AMERICA) Sovereign wealth funds - Separate accounts investing into indirect vehicles|13_17
+q123_4|CURRENCY|(SOUTH AMERICA) Sovereign wealth funds - Joint ventures and club deals|13_18
+q123_5|CURRENCY|(SOUTH AMERICA) Sovereign wealth funds - Funds of funds|13_19
+q123_6|CURRENCY|(SOUTH AMERICA) Sovereign wealth funds - Non-listed debt products|13_20
+q12ROW3_hidden|CURRENCY|(SOUTH AMERICA) Sovereign wealth funds TOTAL|13_21
+q124_1|CURRENCY|(SOUTH AMERICA) Government institutions - Non-listed/ commingled real estate funds/private REITs|13_22
+q124_2|CURRENCY|(SOUTH AMERICA) Government institutions - Separate accounts investing directly into real estate|13_23
+q124_3|CURRENCY|(SOUTH AMERICA) Government institutions - Separate accounts investing into indirect vehicles|13_24
+q124_4|CURRENCY|(SOUTH AMERICA) Government institutions - Joint ventures and club deals|13_25
+q124_5|CURRENCY|(SOUTH AMERICA) Government institutions - Funds of funds|13_26
+q124_6|CURRENCY|(SOUTH AMERICA) Government institutions - Non-listed debt products|13_27
+q12ROW4_hidden|CURRENCY|(SOUTH AMERICA) Government institutions TOTAL|13_28
+q125_1|CURRENCY|(SOUTH AMERICA) Charities, foundations, non-profit organisations - Non-listed/ commingled real estate funds/private REITs|13_29
+q125_2|CURRENCY|(SOUTH AMERICA) Charities, foundations, non-profit organisations - Separate accounts investing directly into real estate|13_30
+q125_3|CURRENCY|(SOUTH AMERICA) Charities, foundations, non-profit organisations - Separate accounts investing into indirect vehicles|13_31
+q125_4|CURRENCY|(SOUTH AMERICA) Charities, foundations, non-profit organisations - Joint ventures and club deals|13_32
+q125_5|CURRENCY|(SOUTH AMERICA) Charities, foundations, non-profit organisations - Funds of funds|13_33
+q125_6|CURRENCY|(SOUTH AMERICA) Charities, foundations, non-profit organisations - Non-listed debt products|13_34
+q12ROW5_hidden|CURRENCY|(SOUTH AMERICA) Charities, foundations, non-profit organisations  TOTAL|13_35
+q126_1|CURRENCY|(SOUTH AMERICA) Funds of funds - Non-listed/ commingled real estate funds/private REITs|13_36
+q126_2|CURRENCY|(SOUTH AMERICA) Funds of funds - Separate accounts investing directly into real estate|13_37
+q126_3|CURRENCY|(SOUTH AMERICA) Funds of funds - Separate accounts investing into indirect vehicles|13_38
+q126_4|CURRENCY|(SOUTH AMERICA) Funds of funds - Joint ventures and club deals|13_39
+q126_5|CURRENCY|(SOUTH AMERICA) Funds of funds - Funds of funds|13_40
+q126_6|CURRENCY|(SOUTH AMERICA) Funds of funds - Non-listed debt products|13_41
+q12ROW6_hidden|CURRENCY|(SOUTH AMERICA) Funds of funds TOTAL|13_42
+q127_1|CURRENCY|(SOUTH AMERICA) High net worth individuals /Family offices - Non-listed/ commingled real estate funds/private REITs|13_43
+q127_2|CURRENCY|(SOUTH AMERICA) High net worth individuals /Family offices - Separate accounts investing directly into real estate|13_44
+q127_3|CURRENCY|(SOUTH AMERICA) High net worth individuals /Family offices - Separate accounts investing into indirect vehicles|13_45
+q127_4|CURRENCY|(SOUTH AMERICA) High net worth individuals /Family offices - Joint ventures and club deals|13_46
+q127_5|CURRENCY|(SOUTH AMERICA) High net worth individuals /Family offices - Funds of funds|13_47
+q127_6|CURRENCY|(SOUTH AMERICA) High net worth individuals /Family offices - Non-listed debt products|13_48
+q12ROW7_hidden|CURRENCY|(SOUTH AMERICA) High net worth individuals /Family offices TOTAL|13_49
+q12other|CURRENCY|(SOUTH AMERICA) Other (please specify)|13_50
+q128_1|CURRENCY|(SOUTH AMERICA) Other - Non-listed/ commingled real estate funds/private REITs|13_51
+q128_2|CURRENCY|(SOUTH AMERICA) Other - Separate accounts investing directly into real estate|13_52
+q128_3|CURRENCY|(SOUTH AMERICA) Other - Separate accounts investing into indirect vehicles|13_53
+q128_4|CURRENCY|(SOUTH AMERICA) Other - Joint ventures and club deals|13_54
+q128_5|CURRENCY|(SOUTH AMERICA) Other - Funds of funds|13_55
+q128_6|CURRENCY|(SOUTH AMERICA) Other - Non-listed debt products|13_56
+q12ROW8_hidden|CURRENCY|(SOUTH AMERICA) Other TOTAL|13_57
+q12COL1_hidden|CURRENCY|(SOUTH AMERICA) Non-listed/ commingled real estate funds/private REITs TOTAL|13_58
+q12COL2_hidden|CURRENCY|(SOUTH AMERICA) Separate accounts investing directly into real estate TOTAL|13_59
+q12COL3_hidden|CURRENCY|(SOUTH AMERICA) Separate accounts investing into indirect vehicles TOTAL|13_60
+q12COL4_hidden|CURRENCY|(SOUTH AMERICA) Joint ventures and club deals TOTAL|13_61
+q12COL5_hidden|CURRENCY|(SOUTH AMERICA) Funds of funds TOTAL|13_62
+q12COL6_hidden|CURRENCY|(SOUTH AMERICA) Non-listed debt products TOTAL|13_63
+q12GRANDTotal_hidden|CURRENCY|(SOUTH AMERICA) Total capital  raised in 2015 from South American strategy|13_64
+||For your Africa* strategy, how much capital did your company raise in 2015?|14
+q131_1|CURRENCY|(AFRICA) Pension funds - Non-listed/ commingled real estate funds/private REITs|14_1
+q131_2|CURRENCY|(AFRICA) Pension funds - Separate accounts investing directly into real estate|14_2
+q131_3|CURRENCY|(AFRICA) Pension funds - Separate accounts investing into indirect vehicles|14_3
+q131_4|CURRENCY|(AFRICA) Pension funds - Joint ventures and club deals|14_4
+q131_5|CURRENCY|(AFRICA) Pension funds - Funds of funds|14_5
+q131_6|CURRENCY|(AFRICA) Pension funds - Non-listed debt products|14_6
+q13ROW1_hidden|CURRENCY|(AFRICA) Pension funds TOTAL|14_7
+q132_1|CURRENCY|(AFRICA) Insurance companies - Non-listed/ commingled real estate funds/private REITs|14_8
+q132_2|CURRENCY|(AFRICA) Insurance companies - Separate accounts investing directly into real estate|14_9
+q132_3|CURRENCY|(AFRICA) Insurance companies - Separate accounts investing into indirect vehicles|14_10
+q132_4|CURRENCY|(AFRICA) Insurance companies - Joint ventures and club deals|14_11
+q132_5|CURRENCY|(AFRICA) Insurance companies - Funds of funds|14_12
+q132_6|CURRENCY|(AFRICA) Insurance companies - Non-listed debt products|14_13
+q13ROW2_hidden|CURRENCY|(AFRICA) Insurance companies TOTAL|14_14
+q133_1|CURRENCY|(AFRICA) Sovereign wealth funds - Non-listed/ commingled real estate funds/private REITs|14_15
+q133_2|CURRENCY|(AFRICA) Sovereign wealth funds - Separate accounts investing directly into real estate|14_16
+q133_3|CURRENCY|(AFRICA) Sovereign wealth funds - Separate accounts investing into indirect vehicles|14_17
+q133_4|CURRENCY|(AFRICA) Sovereign wealth funds - Joint ventures and club deals|14_18
+q133_5|CURRENCY|(AFRICA) Sovereign wealth funds - Funds of funds|14_19
+q133_6|CURRENCY|(AFRICA) Sovereign wealth funds - Non-listed debt products|14_20
+q13ROW3_hidden|CURRENCY|(AFRICA) Sovereign wealth funds TOTAL|14_21
+q134_1|CURRENCY|(AFRICA) Government institutions - Non-listed/ commingled real estate funds/private REITs|14_22
+q134_2|CURRENCY|(AFRICA) Government institutions - Separate accounts investing directly into real estate|14_23
+q134_3|CURRENCY|(AFRICA) Government institutions - Separate accounts investing into indirect vehicles|14_24
+q134_4|CURRENCY|(AFRICA) Government institutions - Joint ventures and club deals|14_25
+q134_5|CURRENCY|(AFRICA) Government institutions - Funds of funds|14_26
+q134_6|CURRENCY|(AFRICA) Government institutions - Non-listed debt products|14_27
+q13ROW4_hidden|CURRENCY|(AFRICA) Government institutions TOTAL|14_28
+q135_1|CURRENCY|(AFRICA) Charities, foundations, non-profit organisations - Non-listed/ commingled real estate funds/private REITs|14_29
+q135_2|CURRENCY|(AFRICA) Charities, foundations, non-profit organisations - Separate accounts investing directly into real estate|14_30
+q135_3|CURRENCY|(AFRICA) Charities, foundations, non-profit organisations - Separate accounts investing into indirect vehicles|14_31
+q135_4|CURRENCY|(AFRICA) Charities, foundations, non-profit organisations - Joint ventures and club deals|14_32
+q135_5|CURRENCY|(AFRICA) Charities, foundations, non-profit organisations - Funds of funds|14_33
+q135_6|CURRENCY|(AFRICA) Charities, foundations, non-profit organisations - Non-listed debt products|14_34
+q13ROW5_hidden|CURRENCY|(AFRICA) Charities, foundations, non-profit organisations  TOTAL|14_35
+q136_1|CURRENCY|(AFRICA) Funds of funds - Non-listed/ commingled real estate funds/private REITs|14_36
+q136_2|CURRENCY|(AFRICA) Funds of funds - Separate accounts investing directly into real estate|14_37
+q136_3|CURRENCY|(AFRICA) Funds of funds - Separate accounts investing into indirect vehicles|14_38
+q136_4|CURRENCY|(AFRICA) Funds of funds - Joint ventures and club deals|14_39
+q136_5|CURRENCY|(AFRICA) Funds of funds - Funds of funds|14_40
+q136_6|CURRENCY|(AFRICA) Funds of funds - Non-listed debt products|14_41
+q13ROW6_hidden|CURRENCY|(AFRICA) Funds of funds TOTAL|14_42
+q137_1|CURRENCY|(AFRICA) High net worth individuals /Family offices - Non-listed/ commingled real estate funds/private REITs|14_43
+q137_2|CURRENCY|(AFRICA) High net worth individuals /Family offices - Separate accounts investing directly into real estate|14_44
+q137_3|CURRENCY|(AFRICA) High net worth individuals /Family offices - Separate accounts investing into indirect vehicles|14_45
+q137_4|CURRENCY|(AFRICA) High net worth individuals /Family offices - Joint ventures and club deals|14_46
+q137_5|CURRENCY|(AFRICA) High net worth individuals /Family offices - Funds of funds|14_47
+q137_6|CURRENCY|(AFRICA) High net worth individuals /Family offices - Non-listed debt products|14_48
+q13ROW7_hidden|CURRENCY|(AFRICA) High net worth individuals /Family offices TOTAL|14_49
+q13other|CURRENCY|(AFRICA) Other (please specify)|14_50
+q138_1|CURRENCY|(AFRICA) Other - Non-listed/ commingled real estate funds/private REITs|14_51
+q138_2|CURRENCY|(AFRICA) Other - Separate accounts investing directly into real estate|14_52
+q138_3|CURRENCY|(AFRICA) Other - Separate accounts investing into indirect vehicles|14_53
+q138_4|CURRENCY|(AFRICA) Other - Joint ventures and club deals|14_54
+q138_5|CURRENCY|(AFRICA) Other - Funds of funds|14_55
+q138_6|CURRENCY|(AFRICA) Other - Non-listed debt products|14_56
+q13ROW8_hidden|CURRENCY|(AFRICA) Other TOTAL|14_57
+q13COL1_hidden|CURRENCY|(AFRICA) Non-listed/ commingled real estate funds/private REITs TOTAL|14_58
+q13COL2_hidden|CURRENCY|(AFRICA) Separate accounts investing directly into real estate TOTAL|14_59
+q13COL3_hidden|CURRENCY|(AFRICA) Separate accounts investing into indirect vehicles TOTAL|14_60
+q13COL4_hidden|CURRENCY|(AFRICA) Joint ventures and club deals TOTAL|14_61
+q13COL5_hidden|CURRENCY|(AFRICA) Funds of funds TOTAL|14_62
+q13COL6_hidden|CURRENCY|(AFRICA) Non-listed debt products TOTAL|14_63
+q13GRANDTotal_hidden|CURRENCY|(AFRICA) Total capital  raised in 2015 from African strategy|14_64
+q14|SINGLE|How do you expect capital raising activities to develop over the next two years?|15
+q15|SINGLE|What impact do you expect regulation to have on capital raising activities over the next two years?|16
+q16|SINGLE|Would you like the name of your company to be included in the list of participants?|17
+UserAgent||IGNORE|
