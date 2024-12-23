@@ -20,6 +20,12 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 # Copy the entire current directory into the container
 COPY . ./
 
+# Accept a build argument for the dynamic script
+ARG additional_script
+
+# Copy the dynamic script into the container
+COPY ${additional_script} /app
+
 # Set environment variables (optional, replace with actual values or use docker-compose to pass them)
 ENV AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
 ENV AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
