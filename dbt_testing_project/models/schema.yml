@@ -1,0 +1,48 @@
+
+version: 2
+
+models:
+  - name: investment_intentions_model_2024_staging
+    description: "ii data"
+    columns: 
+      - name: record_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+    tests:
+      - non_null_primary_key:
+          col_name: 'record_id'
+          
+  - name: investment_intentions_model_2025_staging
+    description: "ii data"
+    columns: 
+      - name: record_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+    tests:
+      - non_null_primary_key:
+          col_name: 'record_id'
+    
+  - name: my_first_dbt_model
+    description: "A starter dbt model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: my_second_dbt_model
+    description: "A starter dbt model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+    tests:
+      - non_null_primary_key:
+          col_name: id

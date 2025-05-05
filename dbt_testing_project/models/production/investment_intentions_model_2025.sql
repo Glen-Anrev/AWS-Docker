@@ -1,0 +1,1 @@
+select * from dw_survey_ii.power_query_charts_global_usd_ii_2025
