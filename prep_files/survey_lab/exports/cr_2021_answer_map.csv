@@ -1,0 +1,61 @@
+﻿Question|Value|Text|Label
+qCurrency|EUR|Euro (EUR)|
+qCurrency|GBP|Pound Sterling (GBP)|
+qCurrency|USD|US Dollar (USD)|
+qCurrency|AUD|Australian Dollar (AUD)|
+qCurrency|CHF|Swiss Francs (CHF)|
+qCurrency|CNY|Chinese Yuan (CNY)|
+qCurrency|DKK|Danish Krona (DKK)|
+qCurrency|HKD|Hong Kong Dollar (HKD)|
+qCurrency|IDR|Indonesian Rupiah (IDR)|
+qCurrency|INR|Indian Rupee (INR)|
+qCurrency|JPY|Japanese Yen (JPY)|
+qCurrency|KRW|South Korean Won (KRW)|
+qCurrency|LKR|Sri Lankan Rupee (LKR)|
+qCurrency|MYR|Malaysian Ringgit (MYR)|
+qCurrency|NOK|Norwegian Krone (NOK)|
+qCurrency|NZD|New Zealand Dollar (NZD)|
+qCurrency|PHP|Philippine Peso (PHP)|
+qCurrency|PKR|Pakistani Rupee (PKR)|
+qCurrency|SEK|Swedish Krona (SEK)|
+qCurrency|SGD|Singapore Dollar (SGD)|
+qCurrency|THB|Thai Baht (THB)|
+qCurrency|TWD|New Taiwan Dollar (TWD)|
+qCurrency|VND|Vietnamese Dong (VND)|
+qCurrency|CAD|Canadian Dollar (CAD)|
+qCurrency|OTHER|Other|
+q1|1|Yes|CapitalRaisingActivity_NonListedRealEstateVehicles
+q1|2|No|CapitalRaisingActivity_NonListedRealEstateVehicles
+q2|1|Track record|NoCapitalRaisingActivity_Reason
+q2|2|Alignment of interest|NoCapitalRaisingActivity_Reason
+q2|3|Fund manager reputation|NoCapitalRaisingActivity_Reason
+q2|4|Associated costs|NoCapitalRaisingActivity_Reason
+q2|5|Corporate governance framework|NoCapitalRaisingActivity_Reason
+q2|6|No product available at that moment|NoCapitalRaisingActivity_Reason
+q2|7|Other|NoCapitalRaisingActivity_Reason
+q8|1|Increase|CapitalRaisingActivity_Development
+q8|2|Decrease|CapitalRaisingActivity_Development
+q8|3|No change|CapitalRaisingActivity_Development
+q9|1|Positive impact|CapitalRaisingActivity_Impactregulation
+q9|2|Negative impact|CapitalRaisingActivity_Impactregulation
+q9|3|No impact|CapitalRaisingActivity_Impactregulation
+q91|1|Yes|Companynameincluded
+q91|2|No|Companynameincluded
+q12_apac|1|Multi-sector strategies|APAC_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_apac|2|Single-sector strategies|APAC_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_apac|3|Both|APAC_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_europe|1|Multi-sector strategies|EUROPE_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_europe|2|Single-sector strategies|EUROPE_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_europe|3|Both|EUROPE_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_northamerica|1|Multi-sector strategies|NA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_northamerica|2|Single-sector strategies|NA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_northamerica|3|Both|NA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_global|1|Multi-sector strategies|GLOBAL_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_global|2|Single-sector strategies|GLOBAL_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_global|3|Both|GLOBAL_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_southamerica|1|Multi-sector strategies|SA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_southamerica|2|Single-sector strategies|SA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_southamerica|3|Both|SA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_africa|1|Multi-sector strategies|AFRICA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_africa|2|Single-sector strategies|AFRICA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector
+q12_africa|3|Both|AFRICA_CapitalRaisingActivity_NonListedVehicles_MultiSectorSingleSector

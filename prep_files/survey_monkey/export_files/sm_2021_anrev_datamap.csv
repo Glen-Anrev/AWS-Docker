@@ -1,0 +1,44 @@
+﻿question|question_code|answer|answer_code|format|answer_Label|answer_label_condensed|section|Topic|sub_topic|Question|qn_breakdown_label
+Keep?|||keep|SINGLE|||||||
+Respondent ID|||respondentId|TEXT|||||||
+Collector ID|||collectorId|TEXT|||||||
+Start Date|||dateStarted|TEXT|||||||
+End Date|||dateEnded|TEXT|||||||
+IP Address|||ipAddress|TEXT|||||||
+First Name|||firstname|TEXT|||||||
+Last Name|||lastname|TEXT|||||||
+Name|||qname|TEXT|||||||
+Company|||qcompany|TEXT|||||||
+Email|||qemail|TEXT|||||||
+Fund name||Fund name|qfundname|TEXT|||||||
+Did your company raise capital for this vehicle in 2020?|q1|Did your company raise capital for this vehicle in 2020?|q1|SINGLE|||||||
+Style||Response|qstyle|TEXT|||||||
+Fund structure||Open-Ended Response|qfundstructure|TEXT|||||||
+ Regional target strategy||Response|qtarget_regional_strategy|TEXT|||||||
+ Regional target strategy||Single Country - Other (please specify)|qtarget_regional_strategy_other|TEXT|||||||
+Target sector strategy||Response|qtarget_sector_strategy|TEXT|||||||
+Target sector strategy||Single sector - other (please specify)|qtarget_sector_strategy_other|TEXT|||||||
+Total amount of capital raised for this vehicle in 2020|q2|Response|q2|currency|||||||
+Please indicate the currency used||Response|qcurrency|TEXT|||||||
+Please indicate the currency used||Other currency (please specify)|qcurrency_other|TEXT|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 8.|q3|Pension funds (Investor Type)|q3_1|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 8.|q3|Insurance companies (Investor Type)|q3_2|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 8.|q3|Sovereign wealth funds (Investor Type)|q3_3|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 8.|q3|Government institutions (Investor Type)|q3_4|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 8.|q3|Charities, foundations, non-profit organisations (Investor Type)|q3_5|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 8.|q3|Funds of funds (Investor Type)|q3_6|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 8.|q3|High net worth individuals / Family offices (Investor Type)|q3_7|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 8.|q3|Other (please specify investor type and amount of capital raised): (Investor Type)|q3_8|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 8.|q4|Europe (Investor Domicile)|q4_1|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 8.|q4|Asia Pacific (Investor Domicile)|q4_2|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 8.|q4|North America (Investor Domicile)|q4_3|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 8.|q4|South America (Investor Domicile)|q4_4|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 8.|q4|Africa (Investor Domicile)|q4_5|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile (in Asia Pacific)?Please ensure that the total values provided match the values you entered in Question 11 (under Asia Pacific).|q5|Australia (Investor Domicile in APAC by country)|q5_1|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile (in Asia Pacific)?Please ensure that the total values provided match the values you entered in Question 11 (under Asia Pacific).|q5|China (Investor Domicile in APAC by country)|q5_2|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile (in Asia Pacific)?Please ensure that the total values provided match the values you entered in Question 11 (under Asia Pacific).|q5|Japan (Investor Domicile in APAC by country)|q5_3|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile (in Asia Pacific)?Please ensure that the total values provided match the values you entered in Question 11 (under Asia Pacific).|q5|South Korea (Investor Domicile in APAC by country)|q5_4|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile (in Asia Pacific)?Please ensure that the total values provided match the values you entered in Question 11 (under Asia Pacific).|q5|Hong Kong (Investor Domicile in APAC by country)|q5_5|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile (in Asia Pacific)?Please ensure that the total values provided match the values you entered in Question 11 (under Asia Pacific).|q5|Singapore (Investor Domicile in APAC by country)|q5_6|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile (in Asia Pacific)?Please ensure that the total values provided match the values you entered in Question 11 (under Asia Pacific).|q5|Middle East (Investor Domicile in APAC by country)|q5_7|currency|||||||
+How much capital was raised for this vehicle in 2020 from Institutional Investors by investor domicile (in Asia Pacific)?Please ensure that the total values provided match the values you entered in Question 11 (under Asia Pacific).|q5|Other (please specify countries and amount of capital raised) (Investor Domicile in APAC by country)|q5_8|currency|||||||

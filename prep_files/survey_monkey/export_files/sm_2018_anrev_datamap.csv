@@ -1,0 +1,44 @@
+﻿question|question_code|answer|answer_code|format|answer_Label|answer_label_condensed|section|Topic|sub_topic|Question|qn_breakdown_label
+keep|||keep|SINGLE|||||||
+Respondent ID|||respondentId|TEXT|||||||
+Collector ID|||collectorId|TEXT|||||||
+Start Date|||dateStarted|TEXT|||||||
+End Date|||dateEnded|TEXT|||||||
+IP Address|||ipAddress|TEXT|||||||
+Email Address|||email|TEXT|||||||
+First Name|||firstname|TEXT|||||||
+Last Name|||lastname|TEXT|||||||
+Custom Data 1|||customData1|TEXT|||||||
+Respondent Details||Name|qname|TEXT|||||||
+||Company|qcompany|TEXT|||||||
+||Email|qemail|TEXT|||||||
+Vehicle name:||Vehicle name:|qfundname|TEXT|||||||
+Did your company raise capital for this vehicle in 2017?|q1|Response|q1|TEXT|||||||
+Style||Style|qstyle|TEXT|||||||
+Structure||Structure|qfundstructure|TEXT|||||||
+Target Regional Strategy||Target Regional Strategy|qtarget_regional_strategy|TEXT|||||||
+Target Sector Strategy||Target Sector Strategy|qtarget_sector_strategy|TEXT|||||||
+What was the total amount of capital raised for this vehicle in 2017?|q2|What was the total amount of capital raised for this vehicle in 2017?|q2|currency|||||||
+||(currency)|qcurrency|TEXT|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|Pension funds|q3_1|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|Insurance companies|q3_2|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|Sovereign wealth funds|q3_3|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|Government institutions|q3_4|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|Charities, foundations, non-profit organisations|q3_5|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|Fund of funds|q3_6|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|High net worth individuals / Family offices|q3_7|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|Other (please specify investor type and amount of capital raised):|q3_8|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor type?Please ensure that the total values provided match the values you entered in Question 4.|q3|Others (Details)|q3_8other|TEXT|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|Europe|q4_1|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|Asia Pacific|q4_2|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|North America|q4_3|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|South America|q4_4|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|Africa|q4_5|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|Australia|q4_6|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|China|q4_7|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|Japan|q4_8|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|South Korea|q4_9|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|Hong Kong|q4_10|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|Singapore|q4_11|currency|||||||
+How much capital was raised for this vehicle in 2017 from Institutional Investors by investor domicile? Please ensure that the total values provided match the values you entered in Question 4.|q4|Other (please specify countries and amount of capital raised)|q4_12|TEXT|||||||
+Did your company have any secondary trading for this vehicle in 2017?|q5|Response|q5|TEXT|||||||

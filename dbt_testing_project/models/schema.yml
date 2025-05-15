@@ -1,0 +1,48 @@
+
+version: 2
+
+models:
+  - name: anrev_mgft_base_stg
+    description: "anrev base "
+    columns: 
+      - name: record_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+    tests:
+      - non_null_primary_key:
+          col_name: 'record_id'
+          
+  - name: anrev_mgft_feecost_stg
+    description: "ii data"
+    columns: 
+      - name: record_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+    tests:
+      - non_null_primary_key:
+          col_name: 'record_id'
+    
+  - name: anrev_mgft_transform_stg
+    description: "A starter dbt model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: anrev_mgft_metrics_stg
+    description: "A starter dbt model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+    tests:
+      - non_null_primary_key:
+          col_name: id
