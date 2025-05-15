@@ -2,8 +2,8 @@
 version: 2
 
 models:
-  - name: investment_intentions_model_2024_staging
-    description: "ii data"
+  - name: anrev_mgft_base_stg
+    description: "anrev base "
     columns: 
       - name: record_id
         description: "The primary key for this table"
@@ -14,7 +14,7 @@ models:
       - non_null_primary_key:
           col_name: 'record_id'
           
-  - name: investment_intentions_model_2025_staging
+  - name: anrev_mgft_feecost_stg
     description: "ii data"
     columns: 
       - name: record_id
@@ -26,7 +26,7 @@ models:
       - non_null_primary_key:
           col_name: 'record_id'
     
-  - name: my_first_dbt_model
+  - name: anrev_mgft_transform_stg
     description: "A starter dbt model"
     columns:
       - name: id
@@ -35,7 +35,7 @@ models:
           - unique
           - not_null
 
-  - name: my_second_dbt_model
+  - name: anrev_mgft_metrics_stg
     description: "A starter dbt model"
     columns:
       - name: id
