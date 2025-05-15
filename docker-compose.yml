@@ -1,10 +1,10 @@
 version: '3.8'
 services:
-  aws-without-mfa:
+  management_fees:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: aws-without-mfa
+    container_name: management_fees
     environment:
       AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
       AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
